@@ -2,12 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lucaseo90.github.io/archives/</loc>
+    <loc>https://lucaseo90.github.io/tags/2022/</loc>
+    <lastmod>2022-02-26T11:20:53+09:00</lastmod>
+  </url><url>
+    <loc>https://lucaseo90.github.io/tags/blahblah/</loc>
+    <lastmod>2022-02-26T11:20:53+09:00</lastmod>
+  </url><url>
+    <loc>https://lucaseo90.github.io/categories/blahblah/</loc>
+    <lastmod>2022-02-26T11:20:53+09:00</lastmod>
+  </url><url>
+    <loc>https://lucaseo90.github.io/post/210226-blahblah/</loc>
+    <lastmod>2022-02-26T11:20:53+09:00</lastmod>
   </url><url>
     <loc>https://lucaseo90.github.io/categories/</loc>
+    <lastmod>2022-02-26T11:20:53+09:00</lastmod>
+  </url><url>
+    <loc>https://lucaseo90.github.io/tags/feb/</loc>
+    <lastmod>2022-02-26T11:20:53+09:00</lastmod>
   </url><url>
     <loc>https://lucaseo90.github.io/</loc>
+    <lastmod>2022-02-26T11:20:53+09:00</lastmod>
+  </url><url>
+    <loc>https://lucaseo90.github.io/post/</loc>
+    <lastmod>2022-02-26T11:20:53+09:00</lastmod>
   </url><url>
     <loc>https://lucaseo90.github.io/tags/</loc>
+    <lastmod>2022-02-26T11:20:53+09:00</lastmod>
+  </url><url>
+    <loc>https://lucaseo90.github.io/categories/%EA%B0%9C%EC%9D%B8/</loc>
+    <lastmod>2022-02-26T11:20:53+09:00</lastmod>
+  </url><url>
+    <loc>https://lucaseo90.github.io/archives/</loc>
   </url>
 </urlset>
