@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mar on Lucas&#39;s Note</title>
+    <link>https://lucaseo90.github.io/tags/mar/</link>
+    <description>Recent content in Mar on Lucas&#39;s Note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Mar 2022 14:50:57 +0900</lastBuildDate><atom:link href="https://lucaseo90.github.io/tags/mar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blahblah</title>
+      <link>https://lucaseo90.github.io/post/220305-blahblah/</link>
+      <pubDate>Sat, 05 Mar 2022 14:50:57 +0900</pubDate>
+      
+      <guid>https://lucaseo90.github.io/post/220305-blahblah/</guid>
+      <description>시간이 나는 데로 틈틈이 Python의 Beautiful Soup 패키지를 활용해 XHTML 파서를 만들고 있다. 개인적인 취미(?)에서 불필요한 반복을 없애려는 목적이 가장 크다. 전부 수작업으로 진행했었는데 일부분은 굳이 수작업으로 확인하지 않고 자동화할 수 있는 부분이 있다는 것을 인식하게 되어서 시작했다. 근본적으로는 원래는 소스 데이터 타입에 대한 이해가 부족해서 전부 수작업으로 했었는데 소스 중에 XHTML인 데이터가 있어서 이를 활용하기로 했다.
+개발은 단순하게 시작해서 점점 확장을 고려한 형태로 개선하고 있다. 처음에는 main 함수와 태그별 파싱 로직을 담당하는 함수로 구성된 코드를 만들었고, 현재는 클래스로 기본 구조로 공통된 기능은 상속하는 형태로 만들고 있다.</description>
+    </item>
+    
+  </channel>
+</rss>
