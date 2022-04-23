@@ -6,7 +6,17 @@
     <description>Recent content in Posts on Lucas&#39;s Note</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Apr 2022 11:10:04 +0900</lastBuildDate><atom:link href="https://lucaseo90.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Apr 2022 18:13:42 +0900</lastBuildDate><atom:link href="https://lucaseo90.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blahblah</title>
+      <link>https://lucaseo90.github.io/post/220423-blahblah/</link>
+      <pubDate>Sat, 23 Apr 2022 18:13:42 +0900</pubDate>
+      
+      <guid>https://lucaseo90.github.io/post/220423-blahblah/</guid>
+      <description>XHTML 파서를 만들어서 사용한 지도 2달, 프로덕트 개발에는 사용하지도 않았던 Python으로 만들어서 그런지 점점 코드가 거대해진다. 나름대로 생각하면서 만들었는데 파서로 처리하기 위한 대상 HTML 소스들이 늘어나면서 코드 복잡도가 높아지고 있다. 간결하고 이해하기 쉬운 코드가 잘 작성한 코드라는데&amp;hellip; 아무튼 복잡하게 만들어진 코드에 내가 생각한 결과라도 의도대로 나오는지 검증하기 위해 pytest를 사용해서 단위 테스트를 추가했다.
+개발 중인 XHTML 파서의 경우 소스들을 카테고리화할 수 있는데, A라는 카테고리의 경우 대부분의 소스가 정형화되어 있는데, 반면 B, C 및 그 외로 분류한 카테고리의 경우는 같은 카테고리에 속하는데도 불구하고 &amp;lsquo;같은 카테고리라 결과가 잘 나오겠지&amp;rsquo; 생각하고 코드를 실행시키면 이게 무슨 일인가 싶을 때가 많다.</description>
+    </item>
+    
     <item>
       <title>Blahblah</title>
       <link>https://lucaseo90.github.io/post/220416-blahblah/</link>
