@@ -16,9 +16,9 @@
     
   },
   "name":"Lucas\u0027s Note",
-  "description":"리모트 근무를 시작하고 목, 어깨, 허리 등등\u0026hellip; 앉아 있는 생활로 인해 건강이 안 좋아졌다는 것을 느낀다. 장기적으로 개발을 지속 가능할 수 있도록 건강을 챙겨야 한다는 생각이 드는 요즘이다. 체육관을 다니고 있는데 최소한 주 2회는 빠지지 않고 나갈 수 있도록 하자. 그리고 추가로 체력이 붙으면 런닝이나 사이클도 할 수 있도록 하자. 개발 관련해서도 그날 목표로 진행한것까지 진행 된 후에도 계속 개발에 매달려있지 않도록 하자(잘 될지는 모르겠지만?). 개발 외에 주의를 환기할 수 있는 무언가 다른게 필요하다는 생각도 한다.",
-  "url":"https:\/\/lucaseo90.github.io\/post\/220528-blahblah\/",
-  "keywords":"[BlahBlah]"
+  "description":"Recursion 자기 자신을 호출하는 것을 의미\n예제: fibonacci number\nint fibonacci(int n) { if (n \u0026lt;= 1) { return n; } return fibonacci(n-2) \u002b fibonacci(n-1); }  time complexity: O(2^n)  재귀 문제는 주어진 문제를 하위 문제로 나누고, 나누어진 문제를 재귀 함수로 만들어서 주어진 문제에 대한 답을 찾을 수 있는 문제\nDynamic Programming 재귀를 최적화 하는 방법\nMemorization Top-down 접근법에 해당하며, 캐시를 이용해 중복된 계산 방지\nint fibonacci(int n, int[] cache) { if (n \u0026lt;= 1) { return n; } if (cache[n] !",
+  "url":"https:\/\/lucaseo90.github.io\/post\/220611-algo\/",
+  "keywords":"[]"
 }
 
 </script>
@@ -27,42 +27,64 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="generator" content="Hugo 0.91.0 with theme Tranquilpeak 0.5.3-BETA">
 <meta name="author" content="Firstname Lastname">
-<meta name="keywords" content="BlahBlah">
-<meta name="description" content="리모트 근무를 시작하고 목, 어깨, 허리 등등&hellip; 앉아 있는 생활로 인해 건강이 안 좋아졌다는 것을 느낀다. 장기적으로 개발을 지속 가능할 수 있도록 건강을 챙겨야 한다는 생각이 드는 요즘이다. 체육관을 다니고 있는데 최소한 주 2회는 빠지지 않고 나갈 수 있도록 하자. 그리고 추가로 체력이 붙으면 런닝이나 사이클도 할 수 있도록 하자. 개발 관련해서도 그날 목표로 진행한것까지 진행 된 후에도 계속 개발에 매달려있지 않도록 하자(잘 될지는 모르겠지만?). 개발 외에 주의를 환기할 수 있는 무언가 다른게 필요하다는 생각도 한다.">
+<meta name="keywords" content="">
+<meta name="description" content="Recursion 자기 자신을 호출하는 것을 의미
+예제: fibonacci number
+int fibonacci(int n) { if (n &lt;= 1) { return n; } return fibonacci(n-2) &#43; fibonacci(n-1); }  time complexity: O(2^n)  재귀 문제는 주어진 문제를 하위 문제로 나누고, 나누어진 문제를 재귀 함수로 만들어서 주어진 문제에 대한 답을 찾을 수 있는 문제
+Dynamic Programming 재귀를 최적화 하는 방법
+Memorization Top-down 접근법에 해당하며, 캐시를 이용해 중복된 계산 방지
+int fibonacci(int n, int[] cache) { if (n &lt;= 1) { return n; } if (cache[n] !">
 
 
-<meta property="og:description" content="리모트 근무를 시작하고 목, 어깨, 허리 등등&hellip; 앉아 있는 생활로 인해 건강이 안 좋아졌다는 것을 느낀다. 장기적으로 개발을 지속 가능할 수 있도록 건강을 챙겨야 한다는 생각이 드는 요즘이다. 체육관을 다니고 있는데 최소한 주 2회는 빠지지 않고 나갈 수 있도록 하자. 그리고 추가로 체력이 붙으면 런닝이나 사이클도 할 수 있도록 하자. 개발 관련해서도 그날 목표로 진행한것까지 진행 된 후에도 계속 개발에 매달려있지 않도록 하자(잘 될지는 모르겠지만?). 개발 외에 주의를 환기할 수 있는 무언가 다른게 필요하다는 생각도 한다.">
+<meta property="og:description" content="Recursion 자기 자신을 호출하는 것을 의미
+예제: fibonacci number
+int fibonacci(int n) { if (n &lt;= 1) { return n; } return fibonacci(n-2) &#43; fibonacci(n-1); }  time complexity: O(2^n)  재귀 문제는 주어진 문제를 하위 문제로 나누고, 나누어진 문제를 재귀 함수로 만들어서 주어진 문제에 대한 답을 찾을 수 있는 문제
+Dynamic Programming 재귀를 최적화 하는 방법
+Memorization Top-down 접근법에 해당하며, 캐시를 이용해 중복된 계산 방지
+int fibonacci(int n, int[] cache) { if (n &lt;= 1) { return n; } if (cache[n] !">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Blahblah">
-<meta name="twitter:title" content="Blahblah">
-<meta property="og:url" content="https://lucaseo90.github.io/post/220528-blahblah/">
-<meta property="twitter:url" content="https://lucaseo90.github.io/post/220528-blahblah/">
+<meta property="og:title" content="Recursion &amp; Dynamic Programming">
+<meta name="twitter:title" content="Recursion &amp; Dynamic Programming">
+<meta property="og:url" content="https://lucaseo90.github.io/post/220611-algo/">
+<meta property="twitter:url" content="https://lucaseo90.github.io/post/220611-algo/">
 <meta property="og:site_name" content="Lucas&#39;s Note">
-<meta property="og:description" content="리모트 근무를 시작하고 목, 어깨, 허리 등등&hellip; 앉아 있는 생활로 인해 건강이 안 좋아졌다는 것을 느낀다. 장기적으로 개발을 지속 가능할 수 있도록 건강을 챙겨야 한다는 생각이 드는 요즘이다. 체육관을 다니고 있는데 최소한 주 2회는 빠지지 않고 나갈 수 있도록 하자. 그리고 추가로 체력이 붙으면 런닝이나 사이클도 할 수 있도록 하자. 개발 관련해서도 그날 목표로 진행한것까지 진행 된 후에도 계속 개발에 매달려있지 않도록 하자(잘 될지는 모르겠지만?). 개발 외에 주의를 환기할 수 있는 무언가 다른게 필요하다는 생각도 한다.">
-<meta name="twitter:description" content="리모트 근무를 시작하고 목, 어깨, 허리 등등&hellip; 앉아 있는 생활로 인해 건강이 안 좋아졌다는 것을 느낀다. 장기적으로 개발을 지속 가능할 수 있도록 건강을 챙겨야 한다는 생각이 드는 요즘이다. 체육관을 다니고 있는데 최소한 주 2회는 빠지지 않고 나갈 수 있도록 하자. 그리고 추가로 체력이 붙으면 런닝이나 사이클도 할 수 있도록 하자. 개발 관련해서도 그날 목표로 진행한것까지 진행 된 후에도 계속 개발에 매달려있지 않도록 하자(잘 될지는 모르겠지만?). 개발 외에 주의를 환기할 수 있는 무언가 다른게 필요하다는 생각도 한다.">
+<meta property="og:description" content="Recursion 자기 자신을 호출하는 것을 의미
+예제: fibonacci number
+int fibonacci(int n) { if (n &lt;= 1) { return n; } return fibonacci(n-2) &#43; fibonacci(n-1); }  time complexity: O(2^n)  재귀 문제는 주어진 문제를 하위 문제로 나누고, 나누어진 문제를 재귀 함수로 만들어서 주어진 문제에 대한 답을 찾을 수 있는 문제
+Dynamic Programming 재귀를 최적화 하는 방법
+Memorization Top-down 접근법에 해당하며, 캐시를 이용해 중복된 계산 방지
+int fibonacci(int n, int[] cache) { if (n &lt;= 1) { return n; } if (cache[n] !">
+<meta name="twitter:description" content="Recursion 자기 자신을 호출하는 것을 의미
+예제: fibonacci number
+int fibonacci(int n) { if (n &lt;= 1) { return n; } return fibonacci(n-2) &#43; fibonacci(n-1); }  time complexity: O(2^n)  재귀 문제는 주어진 문제를 하위 문제로 나누고, 나누어진 문제를 재귀 함수로 만들어서 주어진 문제에 대한 답을 찾을 수 있는 문제
+Dynamic Programming 재귀를 최적화 하는 방법
+Memorization Top-down 접근법에 해당하며, 캐시를 이용해 중복된 계산 방지
+int fibonacci(int n, int[] cache) { if (n &lt;= 1) { return n; } if (cache[n] !">
 <meta property="og:locale" content="en-us">
 
   
-    <meta property="article:published_time" content="2022-05-28T20:04:23">
+    <meta property="article:published_time" content="2022-06-11T16:21:14">
   
   
-    <meta property="article:modified_time" content="2022-05-28T20:04:23">
+    <meta property="article:modified_time" content="2022-06-11T16:21:14">
   
   
   
     
-      <meta property="article:section" content="개인">
-    
-      <meta property="article:section" content="BlahBlah">
+      <meta property="article:section" content="Algorithm">
     
   
   
     
       <meta property="article:tag" content="2022">
     
-      <meta property="article:tag" content="May">
+      <meta property="article:tag" content="Jun">
     
-      <meta property="article:tag" content="BlahBlah">
+      <meta property="article:tag" content="Algorithm">
+    
+      <meta property="article:tag" content="Recursion">
+    
+      <meta property="article:tag" content="DynamicProgramming">
     
   
 
@@ -83,14 +105,14 @@
 
 
 
-    <title>Blahblah</title>
+    <title>Recursion &amp; Dynamic Programming</title>
 
     <link rel="icon" href="https://lucaseo90.github.io/favicon.png">
     
 
     
 
-    <link rel="canonical" href="https://lucaseo90.github.io/post/220528-blahblah/">
+    <link rel="canonical" href="https://lucaseo90.github.io/post/220611-algo/">
 
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -250,15 +272,15 @@
             <div class="post-header main-content-wrap text-left">
   
     <h1 class="post-title">
-      Blahblah
+      Recursion &amp; Dynamic Programming
     </h1>
   
   
   <div class="postShorten-meta post-meta">
     
-      <time datetime="2022-05-28T20:04:23&#43;09:00">
+      <time datetime="2022-06-11T16:21:14&#43;09:00">
         
-  May 28, 2022
+  June 11, 2022
 
       </time>
     
@@ -267,9 +289,7 @@
   
     <span>in</span>
     
-      <a class="category-link" href="https://lucaseo90.github.io/categories/%ea%b0%9c%ec%9d%b8">개인</a>, 
-    
-      <a class="category-link" href="https://lucaseo90.github.io/categories/blahblah">BlahBlah</a>
+      <a class="category-link" href="https://lucaseo90.github.io/categories/algorithm">Algorithm</a>
     
   
 
@@ -279,7 +299,65 @@
           
           <div class="post-content markdown">
             <div class="main-content-wrap">
-              <p>리모트 근무를 시작하고 목, 어깨, 허리 등등&hellip; 앉아 있는 생활로 인해 건강이 안 좋아졌다는 것을 느낀다. 장기적으로 개발을 지속 가능할 수 있도록 건강을 챙겨야 한다는 생각이 드는 요즘이다. 체육관을 다니고 있는데 최소한 주 2회는 빠지지 않고 나갈 수 있도록 하자. 그리고 추가로 체력이 붙으면 런닝이나 사이클도 할 수 있도록 하자. 개발 관련해서도 그날 목표로 진행한것까지 진행 된 후에도 계속 개발에 매달려있지 않도록 하자(잘 될지는 모르겠지만?). 개발 외에 주의를 환기할 수 있는 무언가 다른게 필요하다는 생각도 한다. 생각하는 궤도에 오르기까지 아직 달려야하긴 하는데 잠시 건강을 신경써야할 때가 온것 같다. 그리고 야식도 주 많아야 2회 정도로 줄이자. 😱</p>
+              <h2 id="recursion">Recursion</h2>
+<p>자기 자신을 호출하는 것을 의미</p>
+<p>예제: fibonacci number</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-java" data-lang="java"><span style="color:#66d9ef">int</span> <span style="color:#a6e22e">fibonacci</span><span style="color:#f92672">(</span><span style="color:#66d9ef">int</span> n<span style="color:#f92672">)</span> <span style="color:#f92672">{</span>
+  <span style="color:#66d9ef">if</span> <span style="color:#f92672">(</span>n <span style="color:#f92672">&lt;=</span> 1<span style="color:#f92672">)</span> <span style="color:#f92672">{</span>
+    <span style="color:#66d9ef">return</span> n<span style="color:#f92672">;</span>
+  <span style="color:#f92672">}</span>
+  <span style="color:#66d9ef">return</span> fibonacci<span style="color:#f92672">(</span>n<span style="color:#f92672">-</span>2<span style="color:#f92672">)</span> <span style="color:#f92672">+</span> fibonacci<span style="color:#f92672">(</span>n<span style="color:#f92672">-</span>1<span style="color:#f92672">);</span>
+<span style="color:#f92672">}</span>
+</code></pre></div><ul>
+<li>time complexity: O(2^n)</li>
+</ul>
+<p>재귀 문제는 주어진 문제를 하위 문제로 나누고, 나누어진 문제를 재귀 함수로 만들어서 주어진 문제에 대한 답을 찾을 수 있는 문제</p>
+<h2 id="dynamic-programming">Dynamic Programming</h2>
+<p>재귀를 최적화 하는 방법</p>
+<h3 id="memorization">Memorization</h3>
+<p>Top-down 접근법에 해당하며, 캐시를 이용해 중복된 계산 방지</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-java" data-lang="java"><span style="color:#66d9ef">int</span> <span style="color:#a6e22e">fibonacci</span><span style="color:#f92672">(</span><span style="color:#66d9ef">int</span> n<span style="color:#f92672">,</span> <span style="color:#66d9ef">int</span><span style="color:#f92672">[]</span> cache<span style="color:#f92672">)</span> <span style="color:#f92672">{</span>
+  <span style="color:#66d9ef">if</span> <span style="color:#f92672">(</span>n <span style="color:#f92672">&lt;=</span> 1<span style="color:#f92672">)</span> <span style="color:#f92672">{</span>
+    <span style="color:#66d9ef">return</span> n<span style="color:#f92672">;</span>
+  <span style="color:#f92672">}</span>
+  
+  <span style="color:#66d9ef">if</span> <span style="color:#f92672">(</span>cache<span style="color:#f92672">[</span>n<span style="color:#f92672">]</span> <span style="color:#f92672">!=</span> <span style="color:#f92672">-</span>1<span style="color:#f92672">)</span> <span style="color:#f92672">{</span>
+    <span style="color:#66d9ef">return</span> cache<span style="color:#f92672">[</span>n<span style="color:#f92672">];</span>
+  <span style="color:#f92672">}</span> <span style="color:#66d9ef">else</span> <span style="color:#f92672">{</span>
+    cache<span style="color:#f92672">[</span>n<span style="color:#f92672">]</span> <span style="color:#f92672">=</span> fibonacci<span style="color:#f92672">(</span>n<span style="color:#f92672">-</span>2<span style="color:#f92672">)</span> <span style="color:#f92672">+</span> fibonacci<span style="color:#f92672">(</span>n<span style="color:#f92672">-</span>1<span style="color:#f92672">);</span> 
+    <span style="color:#66d9ef">return</span> cache<span style="color:#f92672">[</span>n<span style="color:#f92672">];</span>
+  <span style="color:#f92672">}</span>
+<span style="color:#f92672">}</span>
+</code></pre></div><ul>
+<li>time complexity: O(n)</li>
+<li>space complexity: O(n)</li>
+</ul>
+<h3 id="tabulation">Tabulation</h3>
+<p>Bottom-up 접근법에 해당하며, 재귀로 계산하지 않고 공간 복잡도를 개선</p>
+<ul>
+<li>재귀로 처리하는 경우 마지막을 시작 시점으로 뒤부터 처리하는 Top-down 접근법에 비해 직관적</li>
+</ul>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-java" data-lang="java"><span style="color:#66d9ef">int</span> <span style="color:#a6e22e">fibonacci</span><span style="color:#f92672">(</span><span style="color:#66d9ef">int</span> n<span style="color:#f92672">)</span> <span style="color:#f92672">{</span>
+  <span style="color:#66d9ef">if</span> <span style="color:#f92672">(</span>n <span style="color:#f92672">&lt;=</span> 1<span style="color:#f92672">)</span> <span style="color:#f92672">{</span>
+    <span style="color:#66d9ef">return</span> n<span style="color:#f92672">;</span>
+  <span style="color:#f92672">}</span>
+  
+  <span style="color:#66d9ef">int</span> first <span style="color:#f92672">=</span> 1<span style="color:#f92672">;</span>
+  <span style="color:#66d9ef">int</span> second <span style="color:#f92672">=</span> 0<span style="color:#f92672">;</span>
+  <span style="color:#66d9ef">int</span> result <span style="color:#f92672">=</span> 0<span style="color:#f92672">;</span>
+  
+  <span style="color:#66d9ef">for</span> <span style="color:#f92672">(</span><span style="color:#66d9ef">int</span> i <span style="color:#f92672">=</span> 0<span style="color:#f92672">;</span> i <span style="color:#f92672">&lt;</span> n<span style="color:#f92672">;</span> i<span style="color:#f92672">++)</span> <span style="color:#f92672">{</span>
+    result <span style="color:#f92672">=</span> first <span style="color:#f92672">+</span> second<span style="color:#f92672">;</span>
+    second <span style="color:#f92672">=</span> first<span style="color:#f92672">;</span>
+    first <span style="color:#f92672">=</span> result<span style="color:#f92672">;</span>
+  <span style="color:#f92672">}</span>
+  
+  <span style="color:#66d9ef">return</span> result<span style="color:#f92672">;</span>
+<span style="color:#f92672">}</span>
+</code></pre></div><ul>
+<li>time complexity: O(n)</li>
+<li>space complexity: O(1)</li>
+</ul>
 
               
 
@@ -296,9 +374,13 @@
                     
   <a class="tag tag--primary tag--small" href="https://lucaseo90.github.io/tags/2022/">2022</a>
 
-  <a class="tag tag--primary tag--small" href="https://lucaseo90.github.io/tags/may/">May</a>
+  <a class="tag tag--primary tag--small" href="https://lucaseo90.github.io/tags/jun/">Jun</a>
 
-  <a class="tag tag--primary tag--small" href="https://lucaseo90.github.io/tags/blahblah/">BlahBlah</a>
+  <a class="tag tag--primary tag--small" href="https://lucaseo90.github.io/tags/algorithm/">Algorithm</a>
+
+  <a class="tag tag--primary tag--small" href="https://lucaseo90.github.io/tags/recursion/">Recursion</a>
+
+  <a class="tag tag--primary tag--small" href="https://lucaseo90.github.io/tags/dynamicprogramming/">DynamicProgramming</a>
 
                   </div>
                 
@@ -311,7 +393,7 @@
       
         <li class="post-action">
           
-            <a class="post-action-btn btn btn--default tooltip--top" href="https://lucaseo90.github.io/post/220611-algo/" data-tooltip="Recursion &amp; Dynamic Programming" aria-label="NEXT: Recursion &amp; Dynamic Programming">
+            <a class="post-action-btn btn btn--disabled">
           
               <i class="fa fa-angle-left"></i>
               <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
@@ -319,7 +401,7 @@
         </li>
         <li class="post-action">
           
-            <a class="post-action-btn btn btn--default tooltip--top" href="https://lucaseo90.github.io/post/220521-blahblah/" data-tooltip="Blahblah" aria-label="PREVIOUS: Blahblah">
+            <a class="post-action-btn btn btn--default tooltip--top" href="https://lucaseo90.github.io/post/220528-blahblah/" data-tooltip="Blahblah" aria-label="PREVIOUS: Blahblah">
           
               <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
               <i class="fa fa-angle-right"></i>
@@ -337,19 +419,19 @@
     </li>
     
       <li class="post-action hide-xs">
-        <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://lucaseo90.github.io/post/220528-blahblah/" title="Share on Facebook" aria-label="Share on Facebook">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://lucaseo90.github.io/post/220611-algo/" title="Share on Facebook" aria-label="Share on Facebook">
           <i class="fab fa-facebook-square" aria-hidden="true"></i>
         </a>
       </li>
     
       <li class="post-action hide-xs">
-        <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://lucaseo90.github.io/post/220528-blahblah/" title="Share on Twitter" aria-label="Share on Twitter">
+        <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://lucaseo90.github.io/post/220611-algo/" title="Share on Twitter" aria-label="Share on Twitter">
           <i class="fab fa-twitter" aria-hidden="true"></i>
         </a>
       </li>
     
       <li class="post-action hide-xs">
-        <a class="post-action-btn btn btn--default" target="new" href="https://www.linkedin.com/sharing/share-offsite/?url=https://lucaseo90.github.io/post/220528-blahblah/" title="Share on Linkedin" aria-label="Share on Linkedin">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.linkedin.com/sharing/share-offsite/?url=https://lucaseo90.github.io/post/220611-algo/" title="Share on Linkedin" aria-label="Share on Linkedin">
           <i class="fab fa-linkedin" aria-hidden="true"></i>
         </a>
       </li>
@@ -380,9 +462,9 @@
     </div>
     <script type="text/javascript">
       var disqus_config = function() {
-        this.page.url = 'https:\/\/lucaseo90.github.io\/post\/220528-blahblah\/';
+        this.page.url = 'https:\/\/lucaseo90.github.io\/post\/220611-algo\/';
         
-          this.page.identifier = '\/post\/220528-blahblah\/'
+          this.page.identifier = '\/post\/220611-algo\/'
         
       };
       (function() {
@@ -418,7 +500,7 @@
       
         <li class="post-action">
           
-            <a class="post-action-btn btn btn--default tooltip--top" href="https://lucaseo90.github.io/post/220611-algo/" data-tooltip="Recursion &amp; Dynamic Programming" aria-label="NEXT: Recursion &amp; Dynamic Programming">
+            <a class="post-action-btn btn btn--disabled">
           
               <i class="fa fa-angle-left"></i>
               <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
@@ -426,7 +508,7 @@
         </li>
         <li class="post-action">
           
-            <a class="post-action-btn btn btn--default tooltip--top" href="https://lucaseo90.github.io/post/220521-blahblah/" data-tooltip="Blahblah" aria-label="PREVIOUS: Blahblah">
+            <a class="post-action-btn btn btn--default tooltip--top" href="https://lucaseo90.github.io/post/220528-blahblah/" data-tooltip="Blahblah" aria-label="PREVIOUS: Blahblah">
           
               <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
               <i class="fa fa-angle-right"></i>
@@ -444,19 +526,19 @@
     </li>
     
       <li class="post-action hide-xs">
-        <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://lucaseo90.github.io/post/220528-blahblah/" title="Share on Facebook" aria-label="Share on Facebook">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://lucaseo90.github.io/post/220611-algo/" title="Share on Facebook" aria-label="Share on Facebook">
           <i class="fab fa-facebook-square" aria-hidden="true"></i>
         </a>
       </li>
     
       <li class="post-action hide-xs">
-        <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://lucaseo90.github.io/post/220528-blahblah/" title="Share on Twitter" aria-label="Share on Twitter">
+        <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://lucaseo90.github.io/post/220611-algo/" title="Share on Twitter" aria-label="Share on Twitter">
           <i class="fab fa-twitter" aria-hidden="true"></i>
         </a>
       </li>
     
       <li class="post-action hide-xs">
-        <a class="post-action-btn btn btn--default" target="new" href="https://www.linkedin.com/sharing/share-offsite/?url=https://lucaseo90.github.io/post/220528-blahblah/" title="Share on Linkedin" aria-label="Share on Linkedin">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.linkedin.com/sharing/share-offsite/?url=https://lucaseo90.github.io/post/220611-algo/" title="Share on Linkedin" aria-label="Share on Linkedin">
           <i class="fab fa-linkedin" aria-hidden="true"></i>
         </a>
       </li>
@@ -487,19 +569,19 @@
   <ul class="share-options">
     
       <li class="share-option">
-        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Flucaseo90.github.io%2Fpost%2F220528-blahblah%2F" aria-label="Share on Facebook">
+        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Flucaseo90.github.io%2Fpost%2F220611-algo%2F" aria-label="Share on Facebook">
           <i class="fab fa-facebook-square" aria-hidden="true"></i><span>Share on Facebook</span>
         </a>
       </li>
     
       <li class="share-option">
-        <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=https%3A%2F%2Flucaseo90.github.io%2Fpost%2F220528-blahblah%2F" aria-label="Share on Twitter">
+        <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=https%3A%2F%2Flucaseo90.github.io%2Fpost%2F220611-algo%2F" aria-label="Share on Twitter">
           <i class="fab fa-twitter" aria-hidden="true"></i><span>Share on Twitter</span>
         </a>
       </li>
     
       <li class="share-option">
-        <a class="share-option-btn" target="new" href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Flucaseo90.github.io%2Fpost%2F220528-blahblah%2F" aria-label="Share on Linkedin">
+        <a class="share-option-btn" target="new" href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Flucaseo90.github.io%2Fpost%2F220611-algo%2F" aria-label="Share on Linkedin">
           <i class="fab fa-linkedin" aria-hidden="true"></i><span>Share on Linkedin</span>
         </a>
       </li>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DynamicProgramming on Lucas&#39;s Note</title>
+    <link>https://lucaseo90.github.io/tags/dynamicprogramming/</link>
+    <description>Recent content in DynamicProgramming on Lucas&#39;s Note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Jun 2022 16:21:14 +0900</lastBuildDate><atom:link href="https://lucaseo90.github.io/tags/dynamicprogramming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recursion &amp; Dynamic Programming</title>
+      <link>https://lucaseo90.github.io/post/220611-algo/</link>
+      <pubDate>Sat, 11 Jun 2022 16:21:14 +0900</pubDate>
+      
+      <guid>https://lucaseo90.github.io/post/220611-algo/</guid>
+      <description>Recursion 자기 자신을 호출하는 것을 의미
+예제: fibonacci number
+int fibonacci(int n) { if (n &amp;lt;= 1) { return n; } return fibonacci(n-2) + fibonacci(n-1); }  time complexity: O(2^n)  재귀 문제는 주어진 문제를 하위 문제로 나누고, 나누어진 문제를 재귀 함수로 만들어서 주어진 문제에 대한 답을 찾을 수 있는 문제
+Dynamic Programming 재귀를 최적화 하는 방법
+Memorization Top-down 접근법에 해당하며, 캐시를 이용해 중복된 계산 방지
+int fibonacci(int n, int[] cache) { if (n &amp;lt;= 1) { return n; } if (cache[n] !</description>
+    </item>
+    
+  </channel>
+</rss>
