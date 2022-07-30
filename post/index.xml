@@ -6,7 +6,17 @@
     <description>Recent content in Posts on Lucas&#39;s Note</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jun 2022 16:21:14 +0900</lastBuildDate><atom:link href="https://lucaseo90.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Jul 2022 11:20:32 +0900</lastBuildDate><atom:link href="https://lucaseo90.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blahblah</title>
+      <link>https://lucaseo90.github.io/post/20220730-blahblah/</link>
+      <pubDate>Sat, 30 Jul 2022 11:20:32 +0900</pubDate>
+      
+      <guid>https://lucaseo90.github.io/post/20220730-blahblah/</guid>
+      <description>Youtube 에서 [리처드 파인만] &amp;ldquo;왜 자석은 서로 밀어내는가?에 대한 답변 을 보면서 든 생각을 정리해본다.
+질문에 답하기 위해서는 질문자의 배경지식(아는 것과 모르는 것)을 알아야하고, 질문에서 무엇을 알고 싶은것인지 질문자 수준에 맞게 설명해야 한다. 라는 게 주제로 다가왔고, 사회생활 하는 데도 중요한 부분이란걸 다시 한번 생각하게 된다. 회의할 때 자주 느끼는 것인데, 같은 내용을 설명하더라도 어떤 이는 내용에서 진행 상황만을 아는 것으로 충분하고, 어떤 이는 내용에서 기술적인 사항을 알고 싶어 한다. 알고 싶어 하는 것을 설명했을 때도 왜 그렇게 했는지에 대한 질문이 이어지기도 하고, 이유에 대해서 질문자를 납득시켜야 하기도 한다.</description>
+    </item>
+    
     <item>
       <title>Recursion &amp; Dynamic Programming</title>
       <link>https://lucaseo90.github.io/post/220611-algo/</link>
@@ -15,7 +25,7 @@
       <guid>https://lucaseo90.github.io/post/220611-algo/</guid>
       <description>Recursion 자기 자신을 호출하는 것을 의미
 예제: fibonacci number
-int fibonacci(int n) { if (n &amp;lt;= 1) { return n; } return fibonacci(n-2) + fibonacci(n-1); }  time complexity: O(2^n)  재귀 문제는 주어진 문제를 하위 문제로 나누고, 나누어진 문제를 재귀 함수로 만들어서 주어진 문제에 대한 답을 찾을 수 있는 문제
+int fibonacci(int n) { if (n &amp;lt;= 1) { return n; } return fibonacci(n-2) + fibonacci(n-1); } time complexity: O(2^n) 재귀 문제는 주어진 문제를 하위 문제로 나누고, 나누어진 문제를 재귀 함수로 만들어서 주어진 문제에 대한 답을 찾을 수 있는 문제
 Dynamic Programming 재귀를 최적화 하는 방법
 Memorization Top-down 접근법에 해당하며, 캐시를 이용해 중복된 계산 방지
 int fibonacci(int n, int[] cache) { if (n &amp;lt;= 1) { return n; } if (cache[n] !</description>
@@ -79,8 +89,8 @@ int fibonacci(int n, int[] cache) { if (n &amp;lt;= 1) { return n; } if (cache[n
       
       <guid>https://lucaseo90.github.io/post/220416-blahblah/</guid>
       <description>객체 지향 설계에 SOLID 라는 원칙이 있다. 위키피디아 내용을 발췌하면 목적은 다음과 같고, 각 문자들은 SRP(Single responsibility principle), OCP(Open/closed principle), L(Liskov substitution principle), I(Interface segregation principle), D(Dependency inversion principle)를 의미한다. 각 원칙들이 내포하는 바는 찾아보면 많으니 생략한다.
- &amp;ldquo;소프트웨어 작업에서 프로그래머가 소스 코드가 읽기 쉽고 확장하기 쉽게 될 때까지 소프트웨어 소스 코드를 리팩터링하여 코드 냄새를 제거하기 위해 적용할 수 있는 지침&amp;rdquo;
- 데이터 플랫폼 개발자로 어느덧 9개월 차에 지나면서 느끼는 게 데이터 설계도 마찬가지인 것 같다고 생각한다.</description>
+&amp;ldquo;소프트웨어 작업에서 프로그래머가 소스 코드가 읽기 쉽고 확장하기 쉽게 될 때까지 소프트웨어 소스 코드를 리팩터링하여 코드 냄새를 제거하기 위해 적용할 수 있는 지침&amp;rdquo;
+데이터 플랫폼 개발자로 어느덧 9개월 차에 지나면서 느끼는 게 데이터 설계도 마찬가지인 것 같다고 생각한다.</description>
     </item>
     
     <item>
@@ -102,8 +112,9 @@ int fibonacci(int n, int[] cache) { if (n &amp;lt;= 1) { return n; } if (cache[n
       <guid>https://lucaseo90.github.io/post/220402-blahblah/</guid>
       <description>습관적으로 심던 잔디를 그만 심기로 했다.
 그리고 Contribution settings의 Private contributions를 비활성화했다.
- contribution history를 확인해보면 2018, 2019년은 재직 중이던 회사에서 알고리즘 검정 시험 봐야 한다고 해서, 기본적으로 알고리즘 공부한 commit이 주로 심어졌다. 추가로 2019년에는 사이드 프로젝트 해본다고 끄적거렸던 기억이 있다.
-         - 2018 - 2019    2020년~2021년에는 본격적으로 이직을 해야겠다는 생각이 들어서 기술 서적 보면서 이것저것 공부하면서 큰 의미 없이 잔디를 심었던 것 같다.</description>
+contribution history를 확인해보면 2018, 2019년은 재직 중이던 회사에서 알고리즘 검정 시험 봐야 한다고 해서, 기본적으로 알고리즘 공부한 commit이 주로 심어졌다. 추가로 2019년에는 사이드 프로젝트 해본다고 끄적거렸던 기억이 있다.
+- 2018 - 2019 2020년~2021년에는 본격적으로 이직을 해야겠다는 생각이 들어서 기술 서적 보면서 이것저것 공부하면서 큰 의미 없이 잔디를 심었던 것 같다.
+- 2020 - 2021 이직 전까지만 해도 계속 이것저것 공부했지만, 이직 후에는 한동안 회사에 적응한다고 잔디심기에 손을 놨었다.</description>
     </item>
     
     <item>
@@ -113,8 +124,8 @@ int fibonacci(int n, int[] cache) { if (n &amp;lt;= 1) { return n; } if (cache[n
       
       <guid>https://lucaseo90.github.io/post/220319-blahblah/</guid>
       <description>출근 시간에 대한 논쟁을 보면서 드는 생각.. 근무시간이 09:00 ~ 18:00 일 때 발생하는 의견 차이를 보면서 드는 생각을 정리해본다.
- 09:00 이전에만 도착하면 된다. vs. 10분 정도는 미리 도착해서 근무시간에는 업무를 시작할 수 있도록 준비해야 한다.
- 결론부터 말하면 출근 시간보다는 근무 시간 내에 업무(특히 협업)에 문제가 없는 게 중요하다고 생각한다.
+09:00 이전에만 도착하면 된다. vs. 10분 정도는 미리 도착해서 근무시간에는 업무를 시작할 수 있도록 준비해야 한다.
+결론부터 말하면 출근 시간보다는 근무 시간 내에 업무(특히 협업)에 문제가 없는 게 중요하다고 생각한다.
 더 자세히 생각을 풀어나가면, 알바든 회사든 일을 한다는 행위는 나를 고용한 사람에게 가치를 창출해주는 행위고, 이때 맡은 업무를 잘 진행하고 있는가는 고용주뿐만 아니라 협업하는 사람과의 약속이라고 생각한다.</description>
     </item>
     
@@ -125,8 +136,8 @@ int fibonacci(int n, int[] cache) { if (n &amp;lt;= 1) { return n; } if (cache[n
       
       <guid>https://lucaseo90.github.io/post/220312-blahblah/</guid>
       <description>선택이 망했다고 생각이 들 때 어떻게 해야 할까?
- Life is C between B and D - Jean-Paul Sartre
- 인생은 탄생(Birth)와 죽음(Death) 사이의 선택(Choice)이라고 한다. 선택에는 선택할 수 있는 경우와 선택인데도 불구하고 선택할 수 없는 경우가 있는 것 같다. 전자의 경우 오늘은 무엇을 먹을지 같은 선택부터 크게는 자신 삶의 방향과 연관된 선택들이고, 후자의 경우는 자신의 행동으로 제어할 수 없는 외압으로 인한 사건에 의한 것들이 대부분인 것 같다.
+Life is C between B and D - Jean-Paul Sartre
+인생은 탄생(Birth)와 죽음(Death) 사이의 선택(Choice)이라고 한다. 선택에는 선택할 수 있는 경우와 선택인데도 불구하고 선택할 수 없는 경우가 있는 것 같다. 전자의 경우 오늘은 무엇을 먹을지 같은 선택부터 크게는 자신 삶의 방향과 연관된 선택들이고, 후자의 경우는 자신의 행동으로 제어할 수 없는 외압으로 인한 사건에 의한 것들이 대부분인 것 같다.
 생각해보면 전자의 선택은 선택에 관한 결과를 저울질하면서 선택하기까지 충분한 시간도 주어지는데, 반면 후자는 그렇지 않았던 것 같다.</description>
     </item>
     

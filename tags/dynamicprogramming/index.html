@@ -25,7 +25,7 @@
     <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="generator" content="Hugo 0.91.0 with theme Tranquilpeak 0.5.3-BETA">
+<meta name="generator" content="Hugo 0.101.0 with theme Tranquilpeak 0.5.3-BETA">
 <meta name="author" content="Firstname Lastname">
 <meta name="keywords" content="">
 <meta name="description" content="Hugo tranquilpeak theme demo">
@@ -276,7 +276,7 @@
       
         Recursion 자기 자신을 호출하는 것을 의미
 예제: fibonacci number
-int fibonacci(int n) { if (n &lt;= 1) { return n; } return fibonacci(n-2) + fibonacci(n-1); }  time complexity: O(2^n)  재귀 문제는 주어진 문제를 하위 문제로 나누고, 나누어진 문제를 재귀 함수로 만들어서 주어진 문제에 대한 답을 찾을 수 있는 문제
+int fibonacci(int n) { if (n &lt;= 1) { return n; } return fibonacci(n-2) + fibonacci(n-1); } time complexity: O(2^n) 재귀 문제는 주어진 문제를 하위 문제로 나누고, 나누어진 문제를 재귀 함수로 만들어서 주어진 문제에 대한 답을 찾을 수 있는 문제
 Dynamic Programming 재귀를 최적화 하는 방법
 Memorization Top-down 접근법에 해당하며, 캐시를 이용해 중복된 계산 방지
 int fibonacci(int n, int[] cache) { if (n &lt;= 1) { return n; } if (cache[n] !
