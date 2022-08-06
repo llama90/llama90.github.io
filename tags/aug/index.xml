@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aug on Lucas&#39;s Note</title>
+    <link>https://lucaseo90.github.io/tags/aug/</link>
+    <description>Recent content in Aug on Lucas&#39;s Note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Aug 2022 14:54:42 +0900</lastBuildDate><atom:link href="https://lucaseo90.github.io/tags/aug/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blahblah</title>
+      <link>https://lucaseo90.github.io/post/20220806-blahblah/</link>
+      <pubDate>Sat, 06 Aug 2022 14:54:42 +0900</pubDate>
+      
+      <guid>https://lucaseo90.github.io/post/20220806-blahblah/</guid>
+      <description>리소스를 잘못 삭제해서 데이터 손실이 발생했다.
+평화롭게 업무를 진행하던 오후, 리드의 호출이 발생했다. &amp;ldquo;XX 데이터 제대로 들어오고 있는 거 맞나요? 어제 특정 시간 이후로 조회가 안 되는 거 같은데요?&amp;rdquo; &amp;lsquo;뭐지?&amp;rsquo; 하고 생각하는 찰나, 불현듯 어제 레거시라고 삭제한 리소스 중에 해당 데이터를 전송하는 리소스가 있었다는 사실을 깨닫는다. 메시지에 대한 보존 기간 설정이 없었기 때문에, 이미 손실된 데이터는 어쩔 수 없지만, 빠르게 일단 메시지 브로커로 수집되고 있는 데이터를 임시 보관 처리를 하고, 리드가 삭제된 리소스를 수동으로 복구해서 문제는 해결되었다.</description>
+    </item>
+    
+  </channel>
+</rss>
