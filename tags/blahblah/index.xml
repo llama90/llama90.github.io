@@ -6,14 +6,24 @@
     <description>Recent content in BlahBlah on Lucas&#39;s Note</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Aug 2022 16:52:26 +0900</lastBuildDate><atom:link href="https://lucaseo90.github.io/tags/blahblah/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Aug 2022 17:52:45 +0900</lastBuildDate><atom:link href="https://lucaseo90.github.io/tags/blahblah/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blahblah</title>
+      <link>https://lucaseo90.github.io/post/20220820-blahblah/</link>
+      <pubDate>Sat, 20 Aug 2022 17:52:45 +0900</pubDate>
+      
+      <guid>https://lucaseo90.github.io/post/20220820-blahblah/</guid>
+      <description>스스로 가장 나쁜 점이라고 생각하면서 동시에 그나마 이런 습관이라도 있어서 뭐라도 되는 게 아닐까 싶은 습관 한 가지가 있다. 일이 잘 진행되든 잘 진행되지 않든, 하고 싶든 하고 싶지 않든 꾸역꾸역 해나가는 습관이 있다. 스스로 평범하다고 생각하기 때문에 뭐가 되든 내 생각, 기분은 신경 쓰지 않고 꾸역꾸역 뭐라도 해야 하는 거 아닐까 싶다.
+습관의 힘이라는 책에서 습관은 신호, 반복행동, 보상 그리고 열망으로 형성되 간다는데 내게 주어지는 보상과, 열망은 어디서 오는지 곰곰히 생각해 본다.</description>
+    </item>
+    
     <item>
       <title>Blahblah</title>
       <link>https://lucaseo90.github.io/post/20220813-blahblah/</link>
       <pubDate>Sat, 13 Aug 2022 16:52:26 +0900</pubDate>
       
       <guid>https://lucaseo90.github.io/post/20220813-blahblah/</guid>
-      <description>2022 상반기 회고 회사 AWS 환경에서의 데이터 플랫폼 개발이 역할로 자리 잡음 AWS 환경에서 CDK 를 활용한 Serverless 구조 개발 속도와 기술 선택 사이에서 서비스 방향성을 생각해 개발 최신 기술을 사용하고 싶지만, 서비스 사양 기준 Over Engineering 피하도록 개발 기능을 목적 관점에서 필요한 기능 위주로 시작해서 세부적인 사양을 추가하는 형태로 개발 개인 운동 시작 (주 2회 킥복싱) 현재 기준 -6 kg 목표 반복 작업을 줄이기 위한 자동화 진행 간단하게는 사용해야하는 파일을 복사해서 하나씩 압축 해제하던 작업 수작업으로 복사 &amp;amp; 붙여넣기를 반복하며 진행하더 문서 작업을 파서를 활용 그외 이직한지 1년이 지남 Kubernetes 기반 데이터 플랫폼에 관심이 생김 반복 작업을 기피하는 형태로 게을러짐 </description>
+      <description>2022 상반기 회고 회사 AWS 환경에서의 데이터 플랫폼 개발이 역할로 자리 잡음 AWS 환경에서 CDK 를 활용한 Serverless 구조 개발 속도와 기술 선택 사이에서 서비스 방향성을 생각하며 개발 최신 기술을 사용하고 싶지만, 서비스 사양 기준 Over Engineering 인 경우를 고려 기능을 목적 관점에서 필요한 사양 위주로 시작해서 세부적인 사양을 추가하는 형태로 개발 개인 운동 시작 (주 2회 킥복싱) 현재 기준 -6 kg 목표 반복 작업을 줄이기 위한 자동화 진행 간단하게는 사용해야하는 파일을 복사해서 하나씩 압축 해제하던 작업 수작업으로 복사 &amp;amp; 붙여넣기를 반복하며 진행하더 문서 작업을 파서를 활용 그외 이직한지 1년이 지남 Kubernetes 기반 데이터 플랫폼에 관심이 생김 반복 작업을 기피하는 형태로 게을러짐 </description>
     </item>
     
     <item>
