@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Aug on Hugo Zzo Theme</title>
-    <link>lucaseo90.github.io/en/tags/aug/</link>
+    <link>https://lucaseo90.github.io/en/tags/aug/</link>
     <description>Recent content in Aug on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 27 Aug 2022 22:04:15 +0900</lastBuildDate>
     
-        <atom:link href="lucaseo90.github.io/en/tags/aug/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://lucaseo90.github.io/en/tags/aug/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Blahblah</title>
-        <link>lucaseo90.github.io/en/posts/20220827-blahblah/</link>
+        <link>https://lucaseo90.github.io/en/posts/20220827-blahblah/</link>
         <pubDate>Sat, 27 Aug 2022 22:04:15 +0900</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         <atom:modified>Sat, 27 Aug 2022 22:04:15 +0900</atom:modified>
-        <guid>lucaseo90.github.io/en/posts/20220827-blahblah/</guid>
+        <guid>https://lucaseo90.github.io/en/posts/20220827-blahblah/</guid>
         <description>변하지 않는 것을 이해하기 위해 기본에 집중 -&amp;gt; 기본이 중요한 이유 Data Structure Algorithm Design Pattern System Design Operating System Database Network &amp;hellip;</description>
         
         <dc:creator>zzossig</dc:creator>
@@ -64,11 +64,11 @@
       
       <item>
         <title>Blahblah</title>
-        <link>lucaseo90.github.io/en/posts/20220820-blahblah/</link>
+        <link>https://lucaseo90.github.io/en/posts/20220820-blahblah/</link>
         <pubDate>Sat, 20 Aug 2022 17:52:45 +0900</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         <atom:modified>Sat, 20 Aug 2022 17:52:45 +0900</atom:modified>
-        <guid>lucaseo90.github.io/en/posts/20220820-blahblah/</guid>
+        <guid>https://lucaseo90.github.io/en/posts/20220820-blahblah/</guid>
         <description>스스로 가장 나쁜 점이라고 생각하면서 동시에 그나마 이런 습관이라도 있어서 뭐라도 되는 게 아닐까 싶은 습관 한 가지가 있다. 일이 잘 진행되든 잘 진행되지 않든, 하고 싶</description>
         
         <dc:creator>zzossig</dc:creator>
@@ -106,11 +106,11 @@
       
       <item>
         <title>Blahblah</title>
-        <link>lucaseo90.github.io/en/posts/20220813-blahblah/</link>
+        <link>https://lucaseo90.github.io/en/posts/20220813-blahblah/</link>
         <pubDate>Sat, 13 Aug 2022 16:52:26 +0900</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         <atom:modified>Sat, 13 Aug 2022 16:52:26 +0900</atom:modified>
-        <guid>lucaseo90.github.io/en/posts/20220813-blahblah/</guid>
+        <guid>https://lucaseo90.github.io/en/posts/20220813-blahblah/</guid>
         <description>2022 상반기 회고 회사 AWS 환경에서의 데이터 플랫폼 개발이 역할로 자리 잡음 AWS 환경에서 CDK 를 활용한 Serverless 구조 개발 속도와 기술 선택 사이에서 서비스 방향성을 생각하며 개발 최</description>
         
         <dc:creator>zzossig</dc:creator>
@@ -148,11 +148,11 @@
       
       <item>
         <title>Blahblah</title>
-        <link>lucaseo90.github.io/en/posts/20220806-blahblah/</link>
+        <link>https://lucaseo90.github.io/en/posts/20220806-blahblah/</link>
         <pubDate>Sat, 06 Aug 2022 14:54:42 +0900</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         <atom:modified>Sat, 06 Aug 2022 14:54:42 +0900</atom:modified>
-        <guid>lucaseo90.github.io/en/posts/20220806-blahblah/</guid>
+        <guid>https://lucaseo90.github.io/en/posts/20220806-blahblah/</guid>
         <description>리소스를 잘못 삭제해서 데이터 손실이 발생했다. 평화롭게 업무를 진행하던 오후, 리드의 호출이 발생했다. &amp;ldquo;XX 데이터 제대로 들어오고 있는 거 맞나요? 어제 특정 시간</description>
         
         <dc:creator>zzossig</dc:creator>

@@ -1,38 +1,80 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Categories on Lucas&#39;s Note</title>
+    <title>Categories on Hugo Zzo Theme</title>
     <link>https://lucaseo90.github.io/categories/</link>
-    <description>Recent content in Categories on Lucas&#39;s Note</description>
+    <description>Recent content in Categories on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 15 Sep 2022 18:44:48 +0900</lastBuildDate><atom:link href="https://lucaseo90.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>BlahBlah</title>
-      <link>https://lucaseo90.github.io/categories/blahblah/</link>
-      <pubDate>Thu, 15 Sep 2022 18:44:48 +0900</pubDate>
-      
-      <guid>https://lucaseo90.github.io/categories/blahblah/</guid>
-      <description></description>
-    </item>
+    <language>en</language>
+    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
+    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 15 Sep 2022 18:44:48 +0900</lastBuildDate>
     
-    <item>
-      <title>개인</title>
-      <link>https://lucaseo90.github.io/categories/%EA%B0%9C%EC%9D%B8/</link>
-      <pubDate>Thu, 15 Sep 2022 18:44:48 +0900</pubDate>
-      
-      <guid>https://lucaseo90.github.io/categories/%EA%B0%9C%EC%9D%B8/</guid>
-      <description></description>
-    </item>
+        <atom:link href="https://lucaseo90.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>Algorithm</title>
-      <link>https://lucaseo90.github.io/categories/algorithm/</link>
-      <pubDate>Sat, 11 Jun 2022 16:21:14 +0900</pubDate>
+
       
-      <guid>https://lucaseo90.github.io/categories/algorithm/</guid>
-      <description></description>
-    </item>
+      <item>
+        <title>BlahBlah</title>
+        <link>https://lucaseo90.github.io/categories/blahblah/</link>
+        <pubDate>Thu, 15 Sep 2022 18:44:48 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        
+        <guid>https://lucaseo90.github.io/categories/blahblah/</guid>
+        <description></description>
+        
+        <dc:creator>zzossig</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>개인</title>
+        <link>https://lucaseo90.github.io/categories/%EA%B0%9C%EC%9D%B8/</link>
+        <pubDate>Thu, 15 Sep 2022 18:44:48 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        
+        <guid>https://lucaseo90.github.io/categories/%EA%B0%9C%EC%9D%B8/</guid>
+        <description></description>
+        
+        <dc:creator>zzossig</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Algorithm</title>
+        <link>https://lucaseo90.github.io/categories/algorithm/</link>
+        <pubDate>Sat, 11 Jun 2022 16:21:14 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        
+        <guid>https://lucaseo90.github.io/categories/algorithm/</guid>
+        <description></description>
+        
+        <dc:creator>zzossig</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
     
   </channel>
 </rss>

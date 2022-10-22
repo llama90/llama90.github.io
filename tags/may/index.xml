@@ -1,52 +1,194 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>May on Lucas&#39;s Note</title>
+    <title>May on Hugo Zzo Theme</title>
     <link>https://lucaseo90.github.io/tags/may/</link>
-    <description>Recent content in May on Lucas&#39;s Note</description>
+    <description>Recent content in May on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 28 May 2022 20:04:23 +0900</lastBuildDate><atom:link href="https://lucaseo90.github.io/tags/may/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Blahblah</title>
-      <link>https://lucaseo90.github.io/post/220528-blahblah/</link>
-      <pubDate>Sat, 28 May 2022 20:04:23 +0900</pubDate>
-      
-      <guid>https://lucaseo90.github.io/post/220528-blahblah/</guid>
-      <description>리모트 근무를 시작하고 목, 어깨, 허리 등등&amp;hellip; 앉아 있는 생활로 인해 건강이 안 좋아졌다는 것을 느낀다. 장기적으로 개발을 지속 가능할 수 있도록 건강을 챙겨야 한다는 생각이 드는 요즘이다. 체육관을 다니고 있는데 최소한 주 2회는 빠지지 않고 나갈 수 있도록 하자. 그리고 추가로 체력이 붙으면 런닝이나 사이클도 할 수 있도록 하자. 개발 관련해서도 그날 목표로 진행한것까지 진행 된 후에도 계속 개발에 매달려있지 않도록 하자(잘 될지는 모르겠지만?). 개발 외에 주의를 환기할 수 있는 무언가 다른게 필요하다는 생각도 한다.</description>
-    </item>
+    <language>en</language>
+    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
+    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 28 May 2022 20:04:23 +0900</lastBuildDate>
     
-    <item>
-      <title>Blahblah</title>
-      <link>https://lucaseo90.github.io/post/220521-blahblah/</link>
-      <pubDate>Sat, 21 May 2022 11:51:15 +0900</pubDate>
-      
-      <guid>https://lucaseo90.github.io/post/220521-blahblah/</guid>
-      <description>회사에 대한 충성과 충성에 대한 보상
-보상이 먼저냐 충성이 먼저냐에 대한 이야기는 각설하고, 회사는 잡혀 있는 물고기에 큰 신경을 쓰지 않는다는 생각이다. 사업상 직원의 희생이 요구되는 업무를 맡아서 한 적이 있고, 해당하는 프로젝트에 대한 인원이 필요할 때 모두 프로젝트를 잘 마무리하면 그에 따른 보상이 있을 것처럼 이야기했지만 언급했던 보상이 이루어지지는 않았다. 자신이 맡은 업무가 회사 매출에 크게 기여를 했던 것은 아니라는 것을 알기에 이해한다.
-평범한 부류의 사람이라고 생각하는 자신이 성과를 내기 위해서는, 흔히 말해서 일에 나를 갈아 넣는다는 수준(매번 따라왔던 손목 통증은 덤)으로 일했다고 생각한다.</description>
-    </item>
+        <atom:link href="https://lucaseo90.github.io/tags/may/index.xml" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>Blahblah</title>
-      <link>https://lucaseo90.github.io/post/220514-blahblah/</link>
-      <pubDate>Sat, 14 May 2022 21:50:39 +0900</pubDate>
+
       
-      <guid>https://lucaseo90.github.io/post/220514-blahblah/</guid>
-      <description>개발은 언제 끝날까?
-라고 생각해보니 끝이 없겠다고 생각한다. 외부적 요인으로는 요구사항, 내부적 요인으로는 외부적 요인으로 인해 변경되는 코드와 부채. 오히려 더 이상 사용하지 않을 때가 오거나, 정말 완벽하게 만들었을 때 개발이 끝날 것 같다. 그런데 후자의 경우는 드물 것 같고, 부채가 남아있지만, 요구사항이 없을 때 개발이 끝나지 않을까 생각한다.
-요구사항과 부채 사이의 균형이 이루어지게 개발을 해나가야 하는 것 같은데, 몰아치는 요구사항에 부채가 쌓여가는 경우가 많은 것 같다. 최근 설계와 관련해서 전반적인 코드를 수정해야 하는 상황이 발생했다.</description>
-    </item>
-    
-    <item>
-      <title>Blahblah</title>
-      <link>https://lucaseo90.github.io/post/220507-blahblah/</link>
-      <pubDate>Sat, 07 May 2022 11:09:57 +0900</pubDate>
+      <item>
+        <title>Blahblah</title>
+        <link>https://lucaseo90.github.io/posts/220528-blahblah/</link>
+        <pubDate>Sat, 28 May 2022 20:04:23 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <atom:modified>Sat, 28 May 2022 20:04:23 +0900</atom:modified>
+        <guid>https://lucaseo90.github.io/posts/220528-blahblah/</guid>
+        <description>리모트 근무를 시작하고 목, 어깨, 허리 등등&amp;hellip; 앉아 있는 생활로 인해 건강이 안 좋아졌다는 것을 느낀다. 장기적으로 개발을 지속 가능할 수 있도록 건강</description>
+        
+        <dc:creator>zzossig</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>2022</category>
+            
+          
+            
+              <category>May</category>
+            
+          
+            
+              <category>BlahBlah</category>
+            
+          
+        
+        
+          
+            
+              <category>개인</category>
+            
+          
+            
+              <category>BlahBlah</category>
+            
+          
+        
+        
+      </item>
       
-      <guid>https://lucaseo90.github.io/post/220507-blahblah/</guid>
-      <description>전임 프로그래머는 다 무능력하다
-같은 언어와 프레임워크를 사용하면서도 누구는 간결하고 이해하기 쉬운 코드를 작성하고, 누구는 중복되는 로직과 기능별로 장황해지는 코드를 작성한다. 전임자가 코드를 장황하게 만들어놓은 경우, 후임자가 코드를 장황하게 만들어 놓은 경우.. 소프트웨어 품질을 낮추는건 사람일까 일정일까..</description>
-    </item>
+      <item>
+        <title>Blahblah</title>
+        <link>https://lucaseo90.github.io/posts/220521-blahblah/</link>
+        <pubDate>Sat, 21 May 2022 11:51:15 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <atom:modified>Sat, 21 May 2022 11:51:15 +0900</atom:modified>
+        <guid>https://lucaseo90.github.io/posts/220521-blahblah/</guid>
+        <description>회사에 대한 충성과 충성에 대한 보상 보상이 먼저냐 충성이 먼저냐에 대한 이야기는 각설하고, 회사는 잡혀 있는 물고기에 큰 신경을 쓰지 않는다는 생각이다. 사업상 직원</description>
+        
+        <dc:creator>zzossig</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>2022</category>
+            
+          
+            
+              <category>May</category>
+            
+          
+            
+              <category>BlahBlah</category>
+            
+          
+        
+        
+          
+            
+              <category>개인</category>
+            
+          
+            
+              <category>BlahBlah</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Blahblah</title>
+        <link>https://lucaseo90.github.io/posts/220514-blahblah/</link>
+        <pubDate>Sat, 14 May 2022 21:50:39 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <atom:modified>Sat, 14 May 2022 21:50:39 +0900</atom:modified>
+        <guid>https://lucaseo90.github.io/posts/220514-blahblah/</guid>
+        <description>개발은 언제 끝날까? 라고 생각해보니 끝이 없겠다고 생각한다. 외부적 요인으로는 요구사항, 내부적 요인으로는 외부적 요인으로 인해 변경되는 코드와 부채. 오히려</description>
+        
+        <dc:creator>zzossig</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>2022</category>
+            
+          
+            
+              <category>May</category>
+            
+          
+            
+              <category>BlahBlah</category>
+            
+          
+        
+        
+          
+            
+              <category>개인</category>
+            
+          
+            
+              <category>BlahBlah</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Blahblah</title>
+        <link>https://lucaseo90.github.io/posts/220507-blahblah/</link>
+        <pubDate>Sat, 07 May 2022 11:09:57 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <atom:modified>Sat, 07 May 2022 11:09:57 +0900</atom:modified>
+        <guid>https://lucaseo90.github.io/posts/220507-blahblah/</guid>
+        <description>전임 프로그래머는 다 무능력하다 같은 언어와 프레임워크를 사용하면서도 누구는 간결하고 이해하기 쉬운 코드를 작성하고, 누구는 중복되는 로직과 기능별로 장황해지</description>
+        
+        <dc:creator>zzossig</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>2022</category>
+            
+          
+            
+              <category>May</category>
+            
+          
+            
+              <category>BlahBlah</category>
+            
+          
+        
+        
+          
+            
+              <category>개인</category>
+            
+          
+            
+              <category>BlahBlah</category>
+            
+          
+        
+        
+      </item>
+      
+
     
   </channel>
 </rss>

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Publications on Hugo Zzo Theme</title>
-    <link>lucaseo90.github.io/en/publication/</link>
+    <link>https://lucaseo90.github.io/en/publication/</link>
     <description>Recent content in Publications on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 05 Mar 2020 14:08:48 +0000</lastBuildDate>
     
-        <atom:link href="lucaseo90.github.io/en/publication/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://lucaseo90.github.io/en/publication/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>book</title>
-        <link>lucaseo90.github.io/en/publication/book/</link>
+        <link>https://lucaseo90.github.io/en/publication/book/</link>
         <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
-        <guid>lucaseo90.github.io/en/publication/book/</guid>
+        <guid>https://lucaseo90.github.io/en/publication/book/</guid>
         <description></description>
         
         <dc:creator>zzossig</dc:creator>

@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>lucaseo90.github.io/ko/categories/</loc>
+    <loc>https://lucaseo90.github.io/ko/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="lucaseo90.github.io/en/categories/"
+                href="https://lucaseo90.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="lucaseo90.github.io/ko/categories/"
+                href="https://lucaseo90.github.io/ko/categories/"
                 />
   </url><url>
-    <loc>lucaseo90.github.io/ko/</loc>
+    <loc>https://lucaseo90.github.io/ko/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="lucaseo90.github.io/en/"
+                href="https://lucaseo90.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="lucaseo90.github.io/ko/"
+                href="https://lucaseo90.github.io/ko/"
                 />
   </url><url>
-    <loc>lucaseo90.github.io/ko/series/</loc>
+    <loc>https://lucaseo90.github.io/ko/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="lucaseo90.github.io/en/series/"
+                href="https://lucaseo90.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="lucaseo90.github.io/ko/series/"
+                href="https://lucaseo90.github.io/ko/series/"
                 />
   </url><url>
-    <loc>lucaseo90.github.io/ko/tags/</loc>
+    <loc>https://lucaseo90.github.io/ko/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="lucaseo90.github.io/en/tags/"
+                href="https://lucaseo90.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="lucaseo90.github.io/ko/tags/"
+                href="https://lucaseo90.github.io/ko/tags/"
                 />
   </url>
 </urlset>

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>DynamicProgramming on Hugo Zzo Theme</title>
-    <link>lucaseo90.github.io/en/tags/dynamicprogramming/</link>
+    <link>https://lucaseo90.github.io/en/tags/dynamicprogramming/</link>
     <description>Recent content in DynamicProgramming on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 11 Jun 2022 16:21:14 +0900</lastBuildDate>
     
-        <atom:link href="lucaseo90.github.io/en/tags/dynamicprogramming/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://lucaseo90.github.io/en/tags/dynamicprogramming/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Recursion &amp; Dynamic Programming</title>
-        <link>lucaseo90.github.io/en/posts/220611-algo/</link>
+        <link>https://lucaseo90.github.io/en/posts/220611-algo/</link>
         <pubDate>Sat, 11 Jun 2022 16:21:14 +0900</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         <atom:modified>Sat, 11 Jun 2022 16:21:14 +0900</atom:modified>
-        <guid>lucaseo90.github.io/en/posts/220611-algo/</guid>
+        <guid>https://lucaseo90.github.io/en/posts/220611-algo/</guid>
         <description>Recursion 자기 자신을 호출하는 것을 의미 예제: fibonacci number 1 2 3 4 5 6 int fibonacci(int n) { if (n &amp;lt;= 1) { return n; } return fibonacci(n-2) + fibonacci(n-1); } time complexity: O(2^n) 재귀 문제는 주어진 문제를 하위 문제로 나누고, 나누어진 문</description>
         
         <dc:creator>zzossig</dc:creator>

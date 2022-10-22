@@ -1,21 +1,68 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Jul on Lucas&#39;s Note</title>
+    <title>Jul on Hugo Zzo Theme</title>
     <link>https://lucaseo90.github.io/tags/jul/</link>
-    <description>Recent content in Jul on Lucas&#39;s Note</description>
+    <description>Recent content in Jul on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 30 Jul 2022 11:20:32 +0900</lastBuildDate><atom:link href="https://lucaseo90.github.io/tags/jul/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Blahblah</title>
-      <link>https://lucaseo90.github.io/post/20220730-blahblah/</link>
-      <pubDate>Sat, 30 Jul 2022 11:20:32 +0900</pubDate>
+    <language>en</language>
+    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
+    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 30 Jul 2022 11:20:32 +0900</lastBuildDate>
+    
+        <atom:link href="https://lucaseo90.github.io/tags/jul/index.xml" rel="self" type="application/rss+xml" />
+    
+
       
-      <guid>https://lucaseo90.github.io/post/20220730-blahblah/</guid>
-      <description>Youtube 에서 [리처드 파인만] &amp;ldquo;왜 자석은 서로 밀어내는가?에 대한 답변 을 보면서 든 생각을 정리해본다.
-질문에 답하기 위해서는 질문자의 배경지식(아는 것과 모르는 것)을 알아야하고, 질문에서 무엇을 알고 싶은것인지 질문자 수준에 맞게 설명해야 한다. 라는 게 주제로 다가왔고, 사회생활 하는 데도 중요한 부분이란걸 다시 한번 생각하게 된다. 회의할 때 자주 느끼는 것인데, 같은 내용을 설명하더라도 어떤 이는 내용에서 진행 상황만을 아는 것으로 충분하고, 어떤 이는 내용에서 기술적인 사항을 알고 싶어 한다. 알고 싶어 하는 것을 설명했을 때도 왜 그렇게 했는지에 대한 질문이 이어지기도 하고, 이유에 대해서 질문자를 납득시켜야 하기도 한다.</description>
-    </item>
+      <item>
+        <title>Blahblah</title>
+        <link>https://lucaseo90.github.io/posts/20220730-blahblah/</link>
+        <pubDate>Sat, 30 Jul 2022 11:20:32 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <atom:modified>Sat, 30 Jul 2022 11:20:32 +0900</atom:modified>
+        <guid>https://lucaseo90.github.io/posts/20220730-blahblah/</guid>
+        <description>Youtube 에서 [리처드 파인만] &amp;ldquo;왜 자석은 서로 밀어내는가?에 대한 답변 을 보면서 든 생각을 정리해본다. 질문에 답하기 위해서는 질문자의 배경지식(아는</description>
+        
+        <dc:creator>zzossig</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>2022</category>
+            
+          
+            
+              <category>Jul</category>
+            
+          
+            
+              <category>BlahBlah</category>
+            
+          
+        
+        
+          
+            
+              <category>개인</category>
+            
+          
+            
+              <category>BlahBlah</category>
+            
+          
+        
+        
+      </item>
+      
+
     
   </channel>
 </rss>

@@ -1,128 +1,278 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Tags on Lucas&#39;s Note</title>
+    <title>Tags on Hugo Zzo Theme</title>
     <link>https://lucaseo90.github.io/tags/</link>
-    <description>Recent content in Tags on Lucas&#39;s Note</description>
+    <description>Recent content in Tags on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 15 Sep 2022 18:44:48 +0900</lastBuildDate><atom:link href="https://lucaseo90.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2022</title>
-      <link>https://lucaseo90.github.io/tags/2022/</link>
-      <pubDate>Thu, 15 Sep 2022 18:44:48 +0900</pubDate>
-      
-      <guid>https://lucaseo90.github.io/tags/2022/</guid>
-      <description></description>
-    </item>
+    <language>en</language>
+    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
+    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 15 Sep 2022 18:44:48 +0900</lastBuildDate>
     
-    <item>
-      <title>BlahBlah</title>
-      <link>https://lucaseo90.github.io/tags/blahblah/</link>
-      <pubDate>Thu, 15 Sep 2022 18:44:48 +0900</pubDate>
-      
-      <guid>https://lucaseo90.github.io/tags/blahblah/</guid>
-      <description></description>
-    </item>
+        <atom:link href="https://lucaseo90.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>Sep</title>
-      <link>https://lucaseo90.github.io/tags/sep/</link>
-      <pubDate>Thu, 15 Sep 2022 18:44:48 +0900</pubDate>
+
       
-      <guid>https://lucaseo90.github.io/tags/sep/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Aug</title>
-      <link>https://lucaseo90.github.io/tags/aug/</link>
-      <pubDate>Sat, 27 Aug 2022 22:04:15 +0900</pubDate>
+      <item>
+        <title>2022</title>
+        <link>https://lucaseo90.github.io/tags/2022/</link>
+        <pubDate>Thu, 15 Sep 2022 18:44:48 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        
+        <guid>https://lucaseo90.github.io/tags/2022/</guid>
+        <description></description>
+        
+        <dc:creator>zzossig</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
-      <guid>https://lucaseo90.github.io/tags/aug/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jul</title>
-      <link>https://lucaseo90.github.io/tags/jul/</link>
-      <pubDate>Sat, 30 Jul 2022 11:20:32 +0900</pubDate>
+      <item>
+        <title>BlahBlah</title>
+        <link>https://lucaseo90.github.io/tags/blahblah/</link>
+        <pubDate>Thu, 15 Sep 2022 18:44:48 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        
+        <guid>https://lucaseo90.github.io/tags/blahblah/</guid>
+        <description></description>
+        
+        <dc:creator>zzossig</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
-      <guid>https://lucaseo90.github.io/tags/jul/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Algorithm</title>
-      <link>https://lucaseo90.github.io/tags/algorithm/</link>
-      <pubDate>Sat, 11 Jun 2022 16:21:14 +0900</pubDate>
+      <item>
+        <title>Sep</title>
+        <link>https://lucaseo90.github.io/tags/sep/</link>
+        <pubDate>Thu, 15 Sep 2022 18:44:48 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        
+        <guid>https://lucaseo90.github.io/tags/sep/</guid>
+        <description></description>
+        
+        <dc:creator>zzossig</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
-      <guid>https://lucaseo90.github.io/tags/algorithm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DynamicProgramming</title>
-      <link>https://lucaseo90.github.io/tags/dynamicprogramming/</link>
-      <pubDate>Sat, 11 Jun 2022 16:21:14 +0900</pubDate>
+      <item>
+        <title>Aug</title>
+        <link>https://lucaseo90.github.io/tags/aug/</link>
+        <pubDate>Sat, 27 Aug 2022 22:04:15 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        
+        <guid>https://lucaseo90.github.io/tags/aug/</guid>
+        <description></description>
+        
+        <dc:creator>zzossig</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
-      <guid>https://lucaseo90.github.io/tags/dynamicprogramming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jun</title>
-      <link>https://lucaseo90.github.io/tags/jun/</link>
-      <pubDate>Sat, 11 Jun 2022 16:21:14 +0900</pubDate>
+      <item>
+        <title>Jul</title>
+        <link>https://lucaseo90.github.io/tags/jul/</link>
+        <pubDate>Sat, 30 Jul 2022 11:20:32 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        
+        <guid>https://lucaseo90.github.io/tags/jul/</guid>
+        <description></description>
+        
+        <dc:creator>zzossig</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
-      <guid>https://lucaseo90.github.io/tags/jun/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recursion</title>
-      <link>https://lucaseo90.github.io/tags/recursion/</link>
-      <pubDate>Sat, 11 Jun 2022 16:21:14 +0900</pubDate>
+      <item>
+        <title>Algorithm</title>
+        <link>https://lucaseo90.github.io/tags/algorithm/</link>
+        <pubDate>Sat, 11 Jun 2022 16:21:14 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        
+        <guid>https://lucaseo90.github.io/tags/algorithm/</guid>
+        <description></description>
+        
+        <dc:creator>zzossig</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
-      <guid>https://lucaseo90.github.io/tags/recursion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>May</title>
-      <link>https://lucaseo90.github.io/tags/may/</link>
-      <pubDate>Sat, 28 May 2022 20:04:23 +0900</pubDate>
+      <item>
+        <title>DynamicProgramming</title>
+        <link>https://lucaseo90.github.io/tags/dynamicprogramming/</link>
+        <pubDate>Sat, 11 Jun 2022 16:21:14 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        
+        <guid>https://lucaseo90.github.io/tags/dynamicprogramming/</guid>
+        <description></description>
+        
+        <dc:creator>zzossig</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
-      <guid>https://lucaseo90.github.io/tags/may/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Apr</title>
-      <link>https://lucaseo90.github.io/tags/apr/</link>
-      <pubDate>Sat, 23 Apr 2022 18:13:42 +0900</pubDate>
+      <item>
+        <title>Jun</title>
+        <link>https://lucaseo90.github.io/tags/jun/</link>
+        <pubDate>Sat, 11 Jun 2022 16:21:14 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        
+        <guid>https://lucaseo90.github.io/tags/jun/</guid>
+        <description></description>
+        
+        <dc:creator>zzossig</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
-      <guid>https://lucaseo90.github.io/tags/apr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mar</title>
-      <link>https://lucaseo90.github.io/tags/mar/</link>
-      <pubDate>Sat, 02 Apr 2022 18:23:38 +0900</pubDate>
+      <item>
+        <title>Recursion</title>
+        <link>https://lucaseo90.github.io/tags/recursion/</link>
+        <pubDate>Sat, 11 Jun 2022 16:21:14 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        
+        <guid>https://lucaseo90.github.io/tags/recursion/</guid>
+        <description></description>
+        
+        <dc:creator>zzossig</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
-      <guid>https://lucaseo90.github.io/tags/mar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Feb</title>
-      <link>https://lucaseo90.github.io/tags/feb/</link>
-      <pubDate>Sat, 26 Feb 2022 11:20:53 +0900</pubDate>
+      <item>
+        <title>May</title>
+        <link>https://lucaseo90.github.io/tags/may/</link>
+        <pubDate>Sat, 28 May 2022 20:04:23 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        
+        <guid>https://lucaseo90.github.io/tags/may/</guid>
+        <description></description>
+        
+        <dc:creator>zzossig</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
-      <guid>https://lucaseo90.github.io/tags/feb/</guid>
-      <description></description>
-    </item>
+      <item>
+        <title>Apr</title>
+        <link>https://lucaseo90.github.io/tags/apr/</link>
+        <pubDate>Sat, 23 Apr 2022 18:13:42 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        
+        <guid>https://lucaseo90.github.io/tags/apr/</guid>
+        <description></description>
+        
+        <dc:creator>zzossig</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Mar</title>
+        <link>https://lucaseo90.github.io/tags/mar/</link>
+        <pubDate>Sat, 02 Apr 2022 18:23:38 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        
+        <guid>https://lucaseo90.github.io/tags/mar/</guid>
+        <description></description>
+        
+        <dc:creator>zzossig</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Feb</title>
+        <link>https://lucaseo90.github.io/tags/feb/</link>
+        <pubDate>Sat, 26 Feb 2022 11:20:53 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        
+        <guid>https://lucaseo90.github.io/tags/feb/</guid>
+        <description></description>
+        
+        <dc:creator>zzossig</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>index</title>
+        <link>https://lucaseo90.github.io/tags/index/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        
+        <guid>https://lucaseo90.github.io/tags/index/</guid>
+        <description></description>
+        
+        <dc:creator>zzossig</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
     
   </channel>
 </rss>
