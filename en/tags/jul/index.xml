@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Jul on Hugo Zzo Theme</title>
+    <link>lucaseo90.github.io/en/tags/jul/</link>
+    <description>Recent content in Jul on Hugo Zzo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
+    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 30 Jul 2022 11:20:32 +0900</lastBuildDate>
+    
+        <atom:link href="lucaseo90.github.io/en/tags/jul/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Blahblah</title>
+        <link>lucaseo90.github.io/en/posts/20220730-blahblah/</link>
+        <pubDate>Sat, 30 Jul 2022 11:20:32 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <atom:modified>Sat, 30 Jul 2022 11:20:32 +0900</atom:modified>
+        <guid>lucaseo90.github.io/en/posts/20220730-blahblah/</guid>
+        <description>Youtube 에서 [리처드 파인만] &amp;ldquo;왜 자석은 서로 밀어내는가?에 대한 답변 을 보면서 든 생각을 정리해본다. 질문에 답하기 위해서는 질문자의 배경지식(아는</description>
+        
+        <dc:creator>zzossig</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>2022</category>
+            
+          
+            
+              <category>Jul</category>
+            
+          
+            
+              <category>BlahBlah</category>
+            
+          
+        
+        
+          
+            
+              <category>개인</category>
+            
+          
+            
+              <category>BlahBlah</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

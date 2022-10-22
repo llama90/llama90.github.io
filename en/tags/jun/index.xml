@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Jun on Hugo Zzo Theme</title>
+    <link>lucaseo90.github.io/en/tags/jun/</link>
+    <description>Recent content in Jun on Hugo Zzo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
+    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 11 Jun 2022 16:21:14 +0900</lastBuildDate>
+    
+        <atom:link href="lucaseo90.github.io/en/tags/jun/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Recursion &amp; Dynamic Programming</title>
+        <link>lucaseo90.github.io/en/posts/220611-algo/</link>
+        <pubDate>Sat, 11 Jun 2022 16:21:14 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <atom:modified>Sat, 11 Jun 2022 16:21:14 +0900</atom:modified>
+        <guid>lucaseo90.github.io/en/posts/220611-algo/</guid>
+        <description>Recursion 자기 자신을 호출하는 것을 의미 예제: fibonacci number 1 2 3 4 5 6 int fibonacci(int n) { if (n &amp;lt;= 1) { return n; } return fibonacci(n-2) + fibonacci(n-1); } time complexity: O(2^n) 재귀 문제는 주어진 문제를 하위 문제로 나누고, 나누어진 문</description>
+        
+        <dc:creator>zzossig</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>2022</category>
+            
+          
+            
+              <category>Jun</category>
+            
+          
+            
+              <category>Algorithm</category>
+            
+          
+            
+              <category>Recursion</category>
+            
+          
+            
+              <category>DynamicProgramming</category>
+            
+          
+        
+        
+          
+            
+              <category>Algorithm</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
