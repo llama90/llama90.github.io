@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Comment on Hugo Zzo Theme</title>
+    <link>https://lucaseo90.github.io/tags/comment/</link>
+    <description>Recent content in Comment on Hugo Zzo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hsseo0501@gmail.com (Lucaseo)</managingEditor>
+    <webMaster>hsseo0501@gmail.com (Lucaseo)</webMaster>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 29 Oct 2022 11:32:33 +0900</lastBuildDate>
+    
+        <atom:link href="https://lucaseo90.github.io/tags/comment/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Hugo 댓글 기능 추가하기</title>
+        <link>https://lucaseo90.github.io/posts/221029-hugo-comment/</link>
+        <pubDate>Sat, 29 Oct 2022 11:32:33 +0900</pubDate>
+        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <atom:modified>Sat, 29 Oct 2022 11:32:33 +0900</atom:modified>
+        <guid>https://lucaseo90.github.io/posts/221029-hugo-comment/</guid>
+        <description>들어가기에 앞서 해당 블로그는 zzo 테마를 사용하고 있다. 사실 댓글 기능이 꼭 필요할지는 모르겠지만, 댓글 기능이 있으면 추후 양방향 소통이 가능한 장점이 있기 때문에</description>
+        
+        <dc:creator>Lucaseo</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Hugo</category>
+            
+          
+            
+              <category>Comment</category>
+            
+          
+            
+              <category>zzo theme</category>
+            
+          
+        
+        
+          
+            
+              <category>Hugo</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

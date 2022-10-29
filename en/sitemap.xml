@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://lucaseo90.github.io/</loc>
-    <lastmod>2022-09-15T18:44:48+09:00</lastmod>
+    <lastmod>2022-10-29T11:32:33+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -14,6 +14,50 @@
                 hreflang="en"
                 href="https://lucaseo90.github.io/"
                 />
+  </url><url>
+    <loc>https://lucaseo90.github.io/categories/</loc>
+    <lastmod>2022-10-29T11:32:33+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://lucaseo90.github.io/ko/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lucaseo90.github.io/categories/"
+                />
+  </url><url>
+    <loc>https://lucaseo90.github.io/tags/comment/</loc>
+    <lastmod>2022-10-29T11:32:33+09:00</lastmod>
+  </url><url>
+    <loc>https://lucaseo90.github.io/tags/hugo/</loc>
+    <lastmod>2022-10-29T11:32:33+09:00</lastmod>
+  </url><url>
+    <loc>https://lucaseo90.github.io/categories/hugo/</loc>
+    <lastmod>2022-10-29T11:32:33+09:00</lastmod>
+  </url><url>
+    <loc>https://lucaseo90.github.io/posts/221029-hugo-comment/</loc>
+    <lastmod>2022-10-29T11:32:33+09:00</lastmod>
+  </url><url>
+    <loc>https://lucaseo90.github.io/posts/</loc>
+    <lastmod>2022-10-29T11:32:33+09:00</lastmod>
+  </url><url>
+    <loc>https://lucaseo90.github.io/tags/</loc>
+    <lastmod>2022-10-29T11:32:33+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://lucaseo90.github.io/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lucaseo90.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://lucaseo90.github.io/tags/zzo-theme/</loc>
+    <lastmod>2022-10-29T11:32:33+09:00</lastmod>
   </url><url>
     <loc>https://lucaseo90.github.io/tags/2022/</loc>
     <lastmod>2022-09-15T18:44:48+09:00</lastmod>
@@ -27,37 +71,8 @@
     <loc>https://lucaseo90.github.io/categories/blahblah/</loc>
     <lastmod>2022-09-15T18:44:48+09:00</lastmod>
   </url><url>
-    <loc>https://lucaseo90.github.io/categories/</loc>
-    <lastmod>2022-09-15T18:44:48+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://lucaseo90.github.io/ko/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lucaseo90.github.io/categories/"
-                />
-  </url><url>
-    <loc>https://lucaseo90.github.io/posts/</loc>
-    <lastmod>2022-09-15T18:44:48+09:00</lastmod>
-  </url><url>
     <loc>https://lucaseo90.github.io/tags/sep/</loc>
     <lastmod>2022-09-15T18:44:48+09:00</lastmod>
-  </url><url>
-    <loc>https://lucaseo90.github.io/tags/</loc>
-    <lastmod>2022-09-15T18:44:48+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://lucaseo90.github.io/ko/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lucaseo90.github.io/tags/"
-                />
   </url><url>
     <loc>https://lucaseo90.github.io/categories/%EA%B0%9C%EC%9D%B8/</loc>
     <lastmod>2022-09-15T18:44:48+09:00</lastmod>
