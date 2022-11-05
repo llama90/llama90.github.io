@@ -14,11 +14,53 @@
     <managingEditor>hsseo0501@gmail.com (Lucaseo)</managingEditor>
     <webMaster>hsseo0501@gmail.com (Lucaseo)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 29 Oct 2022 11:32:33 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 05 Nov 2022 11:06:09 +0900</lastBuildDate>
     
         <atom:link href="https://lucaseo90.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>울트라러닝</title>
+        <link>https://lucaseo90.github.io/posts/221105-book-ultralearning/</link>
+        <pubDate>Sat, 05 Nov 2022 11:06:09 +0900</pubDate>
+        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <atom:modified>Sat, 05 Nov 2022 11:06:09 +0900</atom:modified>
+        <guid>https://lucaseo90.github.io/posts/221105-book-ultralearning/</guid>
+        <description>울트라러닝 저자: Scott Young 독서 기간: 2022-10-30 ~ 2022-11-05 정말 오랜만에 읽는 양서로 학습에 대한 내용을 소개하고 있는 도서를 읽었다. 저자는 MIT 컴퓨터과학 학부 과정을 학습한 경험을</description>
+        
+        <dc:creator>Lucaseo</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Book</category>
+            
+          
+            
+              <category>Ultralearning</category>
+            
+          
+            
+              <category>독서</category>
+            
+          
+            
+              <category>울트라러닝</category>
+            
+          
+        
+        
+          
+            
+              <category>Good Book</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>Hugo 댓글 기능 추가하기</title>

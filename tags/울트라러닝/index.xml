@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>울트라러닝 on Hugo Zzo Theme</title>
+    <link>https://lucaseo90.github.io/tags/%EC%9A%B8%ED%8A%B8%EB%9D%BC%EB%9F%AC%EB%8B%9D/</link>
+    <description>Recent content in 울트라러닝 on Hugo Zzo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hsseo0501@gmail.com (Lucaseo)</managingEditor>
+    <webMaster>hsseo0501@gmail.com (Lucaseo)</webMaster>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 05 Nov 2022 11:06:09 +0900</lastBuildDate>
+    
+        <atom:link href="https://lucaseo90.github.io/tags/%EC%9A%B8%ED%8A%B8%EB%9D%BC%EB%9F%AC%EB%8B%9D/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>울트라러닝</title>
+        <link>https://lucaseo90.github.io/posts/221105-book-ultralearning/</link>
+        <pubDate>Sat, 05 Nov 2022 11:06:09 +0900</pubDate>
+        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <atom:modified>Sat, 05 Nov 2022 11:06:09 +0900</atom:modified>
+        <guid>https://lucaseo90.github.io/posts/221105-book-ultralearning/</guid>
+        <description>울트라러닝 저자: Scott Young 독서 기간: 2022-10-30 ~ 2022-11-05 정말 오랜만에 읽는 양서로 학습에 대한 내용을 소개하고 있는 도서를 읽었다. 저자는 MIT 컴퓨터과학 학부 과정을 학습한 경험을</description>
+        
+        <dc:creator>Lucaseo</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Book</category>
+            
+          
+            
+              <category>Ultralearning</category>
+            
+          
+            
+              <category>독서</category>
+            
+          
+            
+              <category>울트라러닝</category>
+            
+          
+        
+        
+          
+            
+              <category>Good Book</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
