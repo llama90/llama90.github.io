@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Environment on Hugo Zzo Theme</title>
+    <link>https://lucaseo90.github.io/tags/environment/</link>
+    <description>Recent content in Environment on Hugo Zzo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hsseo0501@gmail.com (Lucaseo)</managingEditor>
+    <webMaster>hsseo0501@gmail.com (Lucaseo)</webMaster>
+    <copyright>©2023, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 02 Jan 2023 19:40:13 +0900</lastBuildDate>
+    
+        <atom:link href="https://lucaseo90.github.io/tags/environment/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>NVM 및 Node 설치</title>
+        <link>https://lucaseo90.github.io/posts/230102-environment/</link>
+        <pubDate>Mon, 02 Jan 2023 19:40:13 +0900</pubDate>
+        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <atom:modified>Mon, 02 Jan 2023 19:40:13 +0900</atom:modified>
+        <guid>https://lucaseo90.github.io/posts/230102-environment/</guid>
+        <description>노드 개발환경 세팅 macOS에서 Node.js 기반 애플리케이션 개발을 위해 Node를 설치하는 방법에 관해 설명한다. Homebrew 설치 NVM (Node Version Manager) 설치 NVM을 이용한 Node 설치 Homebrew 설치</description>
+        
+        <dc:creator>Lucaseo</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>2023</category>
+            
+          
+            
+              <category>JAN.</category>
+            
+          
+            
+              <category>Environment</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

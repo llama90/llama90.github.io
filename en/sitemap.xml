@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://lucaseo90.github.io/</loc>
-    <lastmod>2022-12-29T04:55:40+09:00</lastmod>
+    <lastmod>2023-01-02T19:40:13+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -13,6 +13,31 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://lucaseo90.github.io/"
+                />
+  </url><url>
+    <loc>https://lucaseo90.github.io/tags/2023/</loc>
+    <lastmod>2023-01-02T19:40:13+09:00</lastmod>
+  </url><url>
+    <loc>https://lucaseo90.github.io/tags/environment/</loc>
+    <lastmod>2023-01-02T19:40:13+09:00</lastmod>
+  </url><url>
+    <loc>https://lucaseo90.github.io/posts/230102-environment/</loc>
+    <lastmod>2023-01-02T19:40:13+09:00</lastmod>
+  </url><url>
+    <loc>https://lucaseo90.github.io/posts/</loc>
+    <lastmod>2023-01-02T19:40:13+09:00</lastmod>
+  </url><url>
+    <loc>https://lucaseo90.github.io/tags/</loc>
+    <lastmod>2023-01-02T19:40:13+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://lucaseo90.github.io/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lucaseo90.github.io/tags/"
                 />
   </url><url>
     <loc>https://lucaseo90.github.io/tags/2022/</loc>
@@ -42,22 +67,6 @@
   </url><url>
     <loc>https://lucaseo90.github.io/tags/dec/</loc>
     <lastmod>2022-12-29T04:55:40+09:00</lastmod>
-  </url><url>
-    <loc>https://lucaseo90.github.io/posts/</loc>
-    <lastmod>2022-12-29T04:55:40+09:00</lastmod>
-  </url><url>
-    <loc>https://lucaseo90.github.io/tags/</loc>
-    <lastmod>2022-12-29T04:55:40+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://lucaseo90.github.io/ko/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lucaseo90.github.io/tags/"
-                />
   </url><url>
     <loc>https://lucaseo90.github.io/categories/%EA%B0%9C%EC%9D%B8/</loc>
     <lastmod>2022-12-29T04:55:40+09:00</lastmod>
@@ -216,6 +225,8 @@
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lucaseo90.github.io/tags/index/</loc>
+  </url><url>
+    <loc>https://lucaseo90.github.io/tags/jan./</loc>
   </url><url>
     <loc>https://lucaseo90.github.io/presentation/</loc>
   </url><url>
