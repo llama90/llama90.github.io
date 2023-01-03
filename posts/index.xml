@@ -14,11 +14,47 @@
     <managingEditor>hsseo0501@gmail.com (Lucaseo)</managingEditor>
     <webMaster>hsseo0501@gmail.com (Lucaseo)</webMaster>
     <copyright>©2023, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 02 Jan 2023 19:40:13 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jan 2023 19:00:40 +0900</lastBuildDate>
     
         <atom:link href="https://lucaseo90.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>AWS Credentials 설정</title>
+        <link>https://lucaseo90.github.io/posts/230103-environment/</link>
+        <pubDate>Tue, 03 Jan 2023 19:00:40 +0900</pubDate>
+        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <atom:modified>Tue, 03 Jan 2023 19:00:40 +0900</atom:modified>
+        <guid>https://lucaseo90.github.io/posts/230103-environment/</guid>
+        <description>들어가면서 개발을 위해 AWS(Amazon Web Service)를 사용하기 위해서는 AWS 계정을 기반으로 하는 AWS Credentials가 필요하다. AWS 계정이 있다는 가정하에 AWS C</description>
+        
+        <dc:creator>Lucaseo</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>2023</category>
+            
+          
+            
+              <category>Jan.</category>
+            
+          
+            
+              <category>개발환경</category>
+            
+          
+            
+              <category>AWS</category>
+            
+          
+        
+        
+        
+      </item>
       
       <item>
         <title>NVM 및 Node 설치</title>
@@ -40,11 +76,15 @@
             
           
             
-              <category>JAN.</category>
+              <category>Jan.</category>
             
           
             
-              <category>Environment</category>
+              <category>개발환경</category>
+            
+          
+            
+              <category>Node</category>
             
           
         

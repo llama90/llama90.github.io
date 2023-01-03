@@ -14,7 +14,7 @@
     <managingEditor>hsseo0501@gmail.com (Lucaseo)</managingEditor>
     <webMaster>hsseo0501@gmail.com (Lucaseo)</webMaster>
     <copyright>©2023, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 02 Jan 2023 19:40:13 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jan 2023 19:00:40 +0900</lastBuildDate>
     
         <atom:link href="https://lucaseo90.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,7 +23,7 @@
       <item>
         <title>2023</title>
         <link>https://lucaseo90.github.io/tags/2023/</link>
-        <pubDate>Mon, 02 Jan 2023 19:40:13 +0900</pubDate>
+        <pubDate>Tue, 03 Jan 2023 19:00:40 +0900</pubDate>
         <author>hsseo0501@gmail.com (Lucaseo)</author>
         
         <guid>https://lucaseo90.github.io/tags/2023/</guid>
@@ -39,12 +39,48 @@
       </item>
       
       <item>
-        <title>Environment</title>
-        <link>https://lucaseo90.github.io/tags/environment/</link>
+        <title>AWS</title>
+        <link>https://lucaseo90.github.io/tags/aws/</link>
+        <pubDate>Tue, 03 Jan 2023 19:00:40 +0900</pubDate>
+        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        
+        <guid>https://lucaseo90.github.io/tags/aws/</guid>
+        <description></description>
+        
+        <dc:creator>Lucaseo</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>개발환경</title>
+        <link>https://lucaseo90.github.io/tags/%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD/</link>
+        <pubDate>Tue, 03 Jan 2023 19:00:40 +0900</pubDate>
+        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        
+        <guid>https://lucaseo90.github.io/tags/%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD/</guid>
+        <description></description>
+        
+        <dc:creator>Lucaseo</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Node</title>
+        <link>https://lucaseo90.github.io/tags/node/</link>
         <pubDate>Mon, 02 Jan 2023 19:40:13 +0900</pubDate>
         <author>hsseo0501@gmail.com (Lucaseo)</author>
         
-        <guid>https://lucaseo90.github.io/tags/environment/</guid>
+        <guid>https://lucaseo90.github.io/tags/node/</guid>
         <description></description>
         
         <dc:creator>Lucaseo</dc:creator>
@@ -471,7 +507,7 @@
       </item>
       
       <item>
-        <title>JAN.</title>
+        <title>Jan.</title>
         <link>https://lucaseo90.github.io/tags/jan./</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>hsseo0501@gmail.com (Lucaseo)</author>
