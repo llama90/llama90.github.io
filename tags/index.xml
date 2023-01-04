@@ -14,7 +14,7 @@
     <managingEditor>hsseo0501@gmail.com (Lucaseo)</managingEditor>
     <webMaster>hsseo0501@gmail.com (Lucaseo)</webMaster>
     <copyright>©2023, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 03 Jan 2023 19:00:40 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jan 2023 20:10:59 +0900</lastBuildDate>
     
         <atom:link href="https://lucaseo90.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,10 +23,46 @@
       <item>
         <title>2023</title>
         <link>https://lucaseo90.github.io/tags/2023/</link>
-        <pubDate>Tue, 03 Jan 2023 19:00:40 +0900</pubDate>
+        <pubDate>Wed, 04 Jan 2023 20:10:59 +0900</pubDate>
         <author>hsseo0501@gmail.com (Lucaseo)</author>
         
         <guid>https://lucaseo90.github.io/tags/2023/</guid>
+        <description></description>
+        
+        <dc:creator>Lucaseo</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>ts-node</title>
+        <link>https://lucaseo90.github.io/tags/ts-node/</link>
+        <pubDate>Wed, 04 Jan 2023 20:10:59 +0900</pubDate>
+        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        
+        <guid>https://lucaseo90.github.io/tags/ts-node/</guid>
+        <description></description>
+        
+        <dc:creator>Lucaseo</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>TypeScript</title>
+        <link>https://lucaseo90.github.io/tags/typescript/</link>
+        <pubDate>Wed, 04 Jan 2023 20:10:59 +0900</pubDate>
+        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        
+        <guid>https://lucaseo90.github.io/tags/typescript/</guid>
         <description></description>
         
         <dc:creator>Lucaseo</dc:creator>

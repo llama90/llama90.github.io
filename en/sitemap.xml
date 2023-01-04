@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://lucaseo90.github.io/</loc>
-    <lastmod>2023-01-03T19:00:40+09:00</lastmod>
+    <lastmod>2023-01-04T20:10:59+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -16,19 +16,13 @@
                 />
   </url><url>
     <loc>https://lucaseo90.github.io/tags/2023/</loc>
-    <lastmod>2023-01-03T19:00:40+09:00</lastmod>
-  </url><url>
-    <loc>https://lucaseo90.github.io/tags/aws/</loc>
-    <lastmod>2023-01-03T19:00:40+09:00</lastmod>
-  </url><url>
-    <loc>https://lucaseo90.github.io/posts/230103-environment/</loc>
-    <lastmod>2023-01-03T19:00:40+09:00</lastmod>
+    <lastmod>2023-01-04T20:10:59+09:00</lastmod>
   </url><url>
     <loc>https://lucaseo90.github.io/posts/</loc>
-    <lastmod>2023-01-03T19:00:40+09:00</lastmod>
+    <lastmod>2023-01-04T20:10:59+09:00</lastmod>
   </url><url>
     <loc>https://lucaseo90.github.io/tags/</loc>
-    <lastmod>2023-01-03T19:00:40+09:00</lastmod>
+    <lastmod>2023-01-04T20:10:59+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -39,6 +33,21 @@
                 hreflang="en"
                 href="https://lucaseo90.github.io/tags/"
                 />
+  </url><url>
+    <loc>https://lucaseo90.github.io/tags/ts-node/</loc>
+    <lastmod>2023-01-04T20:10:59+09:00</lastmod>
+  </url><url>
+    <loc>https://lucaseo90.github.io/posts/230104-ts-node/</loc>
+    <lastmod>2023-01-04T20:10:59+09:00</lastmod>
+  </url><url>
+    <loc>https://lucaseo90.github.io/tags/typescript/</loc>
+    <lastmod>2023-01-04T20:10:59+09:00</lastmod>
+  </url><url>
+    <loc>https://lucaseo90.github.io/tags/aws/</loc>
+    <lastmod>2023-01-03T19:00:40+09:00</lastmod>
+  </url><url>
+    <loc>https://lucaseo90.github.io/posts/230103-environment/</loc>
+    <lastmod>2023-01-03T19:00:40+09:00</lastmod>
   </url><url>
     <loc>https://lucaseo90.github.io/tags/%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD/</loc>
     <lastmod>2023-01-03T19:00:40+09:00</lastmod>
