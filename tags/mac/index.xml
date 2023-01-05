@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Mac on Hugo Zzo Theme</title>
+    <link>https://lucaseo90.github.io/tags/mac/</link>
+    <description>Recent content in Mac on Hugo Zzo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hsseo0501@gmail.com (Lucaseo)</managingEditor>
+    <webMaster>hsseo0501@gmail.com (Lucaseo)</webMaster>
+    <copyright>©2023, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 05 Jan 2023 19:45:05 +0900</lastBuildDate>
+    
+        <atom:link href="https://lucaseo90.github.io/tags/mac/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Mac 유틸리티</title>
+        <link>https://lucaseo90.github.io/posts/230105-mac-utility/</link>
+        <pubDate>Thu, 05 Jan 2023 19:45:05 +0900</pubDate>
+        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <atom:modified>Thu, 05 Jan 2023 19:45:05 +0900</atom:modified>
+        <guid>https://lucaseo90.github.io/posts/230105-mac-utility/</guid>
+        <description>들어가면서 Mac을 사용하면서 설치한 유틸리티를 소개한다. Homebrew Homebrew는 macOS용 패키지 관리자이다. Homebrew를 사용하면 macOS</description>
+        
+        <dc:creator>Lucaseo</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>2023</category>
+            
+          
+            
+              <category>Jan.</category>
+            
+          
+            
+              <category>Mac</category>
+            
+          
+            
+              <category>유틸리티</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

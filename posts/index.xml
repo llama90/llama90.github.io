@@ -14,11 +14,47 @@
     <managingEditor>hsseo0501@gmail.com (Lucaseo)</managingEditor>
     <webMaster>hsseo0501@gmail.com (Lucaseo)</webMaster>
     <copyright>©2023, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 04 Jan 2023 20:10:59 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jan 2023 19:45:05 +0900</lastBuildDate>
     
         <atom:link href="https://lucaseo90.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>Mac 유틸리티</title>
+        <link>https://lucaseo90.github.io/posts/230105-mac-utility/</link>
+        <pubDate>Thu, 05 Jan 2023 19:45:05 +0900</pubDate>
+        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <atom:modified>Thu, 05 Jan 2023 19:45:05 +0900</atom:modified>
+        <guid>https://lucaseo90.github.io/posts/230105-mac-utility/</guid>
+        <description>들어가면서 Mac을 사용하면서 설치한 유틸리티를 소개한다. Homebrew Homebrew는 macOS용 패키지 관리자이다. Homebrew를 사용하면 macOS</description>
+        
+        <dc:creator>Lucaseo</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>2023</category>
+            
+          
+            
+              <category>Jan.</category>
+            
+          
+            
+              <category>Mac</category>
+            
+          
+            
+              <category>유틸리티</category>
+            
+          
+        
+        
+        
+      </item>
       
       <item>
         <title>ts-node</title>

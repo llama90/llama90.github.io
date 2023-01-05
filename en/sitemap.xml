@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://lucaseo90.github.io/</loc>
-    <lastmod>2023-01-04T20:10:59+09:00</lastmod>
+    <lastmod>2023-01-05T19:45:05+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -16,13 +16,19 @@
                 />
   </url><url>
     <loc>https://lucaseo90.github.io/tags/2023/</loc>
-    <lastmod>2023-01-04T20:10:59+09:00</lastmod>
+    <lastmod>2023-01-05T19:45:05+09:00</lastmod>
+  </url><url>
+    <loc>https://lucaseo90.github.io/tags/mac/</loc>
+    <lastmod>2023-01-05T19:45:05+09:00</lastmod>
+  </url><url>
+    <loc>https://lucaseo90.github.io/posts/230105-mac-utility/</loc>
+    <lastmod>2023-01-05T19:45:05+09:00</lastmod>
   </url><url>
     <loc>https://lucaseo90.github.io/posts/</loc>
-    <lastmod>2023-01-04T20:10:59+09:00</lastmod>
+    <lastmod>2023-01-05T19:45:05+09:00</lastmod>
   </url><url>
     <loc>https://lucaseo90.github.io/tags/</loc>
-    <lastmod>2023-01-04T20:10:59+09:00</lastmod>
+    <lastmod>2023-01-05T19:45:05+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -33,6 +39,9 @@
                 hreflang="en"
                 href="https://lucaseo90.github.io/tags/"
                 />
+  </url><url>
+    <loc>https://lucaseo90.github.io/tags/%EC%9C%A0%ED%8B%B8%EB%A6%AC%ED%8B%B0/</loc>
+    <lastmod>2023-01-05T19:45:05+09:00</lastmod>
   </url><url>
     <loc>https://lucaseo90.github.io/tags/ts-node/</loc>
     <lastmod>2023-01-04T20:10:59+09:00</lastmod>
