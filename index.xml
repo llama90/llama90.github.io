@@ -14,7 +14,7 @@
     <managingEditor>hsseo0501@gmail.com (Lucaseo)</managingEditor>
     <webMaster>hsseo0501@gmail.com (Lucaseo)</webMaster>
     <copyright>©2023, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 05 Jan 2023 19:45:05 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jan 2023 22:38:31 +0900</lastBuildDate>
     
         <atom:link href="https://lucaseo90.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -40,6 +40,42 @@
         
       
 
+      
+      <item>
+        <title>Hello World</title>
+        <link>https://lucaseo90.github.io/flashcard/typescript/230106-hello-world/</link>
+        <pubDate>Fri, 06 Jan 2023 22:38:31 +0900</pubDate>
+        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <atom:modified>Fri, 06 Jan 2023 22:38:31 +0900</atom:modified>
+        <guid>https://lucaseo90.github.io/flashcard/typescript/230106-hello-world/</guid>
+        <description> 1 2 // hello-world.ts console.log(&amp;#34;Hello, World&amp;#34;); </description>
+        
+        <dc:creator>Lucaseo</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Hello World</title>
+        <link>https://lucaseo90.github.io/flashcard/java/230106-hello-world/</link>
+        <pubDate>Fri, 06 Jan 2023 22:36:56 +0900</pubDate>
+        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <atom:modified>Fri, 06 Jan 2023 22:36:56 +0900</atom:modified>
+        <guid>https://lucaseo90.github.io/flashcard/java/230106-hello-world/</guid>
+        <description> 1 2 3 4 5 6 // HelloWorld.java class HelloWorld { public static void main(String[] args) { System.out.println(&amp;#34;Hello, World&amp;#34;); } } </description>
+        
+        <dc:creator>Lucaseo</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>Mac 유틸리티</title>
