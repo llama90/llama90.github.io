@@ -14,18 +14,6 @@
                 href="https://lucaseo90.github.io/ko/categories/"
                 />
   </url><url>
-    <loc>https://lucaseo90.github.io/ko/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lucaseo90.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://lucaseo90.github.io/ko/"
-                />
-  </url><url>
     <loc>https://lucaseo90.github.io/ko/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -48,6 +36,18 @@
                 rel="alternate"
                 hreflang="ko"
                 href="https://lucaseo90.github.io/ko/tags/"
+                />
+  </url><url>
+    <loc>https://lucaseo90.github.io/ko/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lucaseo90.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://lucaseo90.github.io/ko/"
                 />
   </url>
 </urlset>

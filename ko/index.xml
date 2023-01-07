@@ -6,13 +6,13 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Hugo Zzo Theme</title>
+    <title>라마의 노트</title>
     <link>https://lucaseo90.github.io/ko/</link>
-    <description>Recent content on Hugo Zzo Theme</description>
+    <description>Recent content on 라마의 노트</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <managingEditor>hsseo0501@gmail.com (Lucaseo)</managingEditor>
-    <webMaster>hsseo0501@gmail.com (Lucaseo)</webMaster>
+    <managingEditor>hsseo0501@gmail.com (Hyunseok Seo)</managingEditor>
+    <webMaster>hsseo0501@gmail.com (Hyunseok Seo)</webMaster>
     <copyright>©2023, All Rights Reserved</copyright>
     
         <atom:link href="https://lucaseo90.github.io/ko/index.xml" rel="self" type="application/rss+xml" />

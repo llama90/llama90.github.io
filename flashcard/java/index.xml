@@ -6,13 +6,13 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Java on Hugo Zzo Theme</title>
+    <title>Java on LAMA&#39;s Note</title>
     <link>https://lucaseo90.github.io/flashcard/java/</link>
-    <description>Recent content in Java on Hugo Zzo Theme</description>
+    <description>Recent content in Java on LAMA&#39;s Note</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>hsseo0501@gmail.com (Lucaseo)</managingEditor>
-    <webMaster>hsseo0501@gmail.com (Lucaseo)</webMaster>
+    <managingEditor>hsseo0501@gmail.com (Hyunseok Seo)</managingEditor>
+    <webMaster>hsseo0501@gmail.com (Hyunseok Seo)</webMaster>
     <copyright>©2023, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 06 Jan 2023 22:36:56 +0900</lastBuildDate>
     
@@ -24,12 +24,12 @@
         <title>Hello World</title>
         <link>https://lucaseo90.github.io/flashcard/java/230106-hello-world/</link>
         <pubDate>Fri, 06 Jan 2023 22:36:56 +0900</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         <atom:modified>Fri, 06 Jan 2023 22:36:56 +0900</atom:modified>
         <guid>https://lucaseo90.github.io/flashcard/java/230106-hello-world/</guid>
         <description> 1 2 3 4 5 6 // HelloWorld.java class HelloWorld { public static void main(String[] args) { System.out.println(&amp;#34;Hello, World&amp;#34;); } } </description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         

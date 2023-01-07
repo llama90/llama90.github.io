@@ -6,13 +6,13 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Tags on Hugo Zzo Theme</title>
+    <title>Tags on LAMA&#39;s Note</title>
     <link>https://lucaseo90.github.io/tags/</link>
-    <description>Recent content in Tags on Hugo Zzo Theme</description>
+    <description>Recent content in Tags on LAMA&#39;s Note</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>hsseo0501@gmail.com (Lucaseo)</managingEditor>
-    <webMaster>hsseo0501@gmail.com (Lucaseo)</webMaster>
+    <managingEditor>hsseo0501@gmail.com (Hyunseok Seo)</managingEditor>
+    <webMaster>hsseo0501@gmail.com (Hyunseok Seo)</webMaster>
     <copyright>©2023, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 05 Jan 2023 19:45:05 +0900</lastBuildDate>
     
@@ -24,12 +24,12 @@
         <title>2023</title>
         <link>https://lucaseo90.github.io/tags/2023/</link>
         <pubDate>Thu, 05 Jan 2023 19:45:05 +0900</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
         <guid>https://lucaseo90.github.io/tags/2023/</guid>
         <description></description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         
@@ -42,12 +42,12 @@
         <title>Mac</title>
         <link>https://lucaseo90.github.io/tags/mac/</link>
         <pubDate>Thu, 05 Jan 2023 19:45:05 +0900</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
         <guid>https://lucaseo90.github.io/tags/mac/</guid>
         <description></description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         
@@ -60,12 +60,12 @@
         <title>유틸리티</title>
         <link>https://lucaseo90.github.io/tags/%EC%9C%A0%ED%8B%B8%EB%A6%AC%ED%8B%B0/</link>
         <pubDate>Thu, 05 Jan 2023 19:45:05 +0900</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
         <guid>https://lucaseo90.github.io/tags/%EC%9C%A0%ED%8B%B8%EB%A6%AC%ED%8B%B0/</guid>
         <description></description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         
@@ -78,12 +78,12 @@
         <title>ts-node</title>
         <link>https://lucaseo90.github.io/tags/ts-node/</link>
         <pubDate>Wed, 04 Jan 2023 20:10:59 +0900</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
         <guid>https://lucaseo90.github.io/tags/ts-node/</guid>
         <description></description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         
@@ -96,12 +96,12 @@
         <title>TypeScript</title>
         <link>https://lucaseo90.github.io/tags/typescript/</link>
         <pubDate>Wed, 04 Jan 2023 20:10:59 +0900</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
         <guid>https://lucaseo90.github.io/tags/typescript/</guid>
         <description></description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         
@@ -114,12 +114,12 @@
         <title>AWS</title>
         <link>https://lucaseo90.github.io/tags/aws/</link>
         <pubDate>Tue, 03 Jan 2023 19:00:40 +0900</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
         <guid>https://lucaseo90.github.io/tags/aws/</guid>
         <description></description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         
@@ -132,12 +132,12 @@
         <title>개발환경</title>
         <link>https://lucaseo90.github.io/tags/%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD/</link>
         <pubDate>Tue, 03 Jan 2023 19:00:40 +0900</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
         <guid>https://lucaseo90.github.io/tags/%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD/</guid>
         <description></description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         
@@ -150,12 +150,12 @@
         <title>Node</title>
         <link>https://lucaseo90.github.io/tags/node/</link>
         <pubDate>Mon, 02 Jan 2023 19:40:13 +0900</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
         <guid>https://lucaseo90.github.io/tags/node/</guid>
         <description></description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         
@@ -168,12 +168,12 @@
         <title>2022</title>
         <link>https://lucaseo90.github.io/tags/2022/</link>
         <pubDate>Thu, 29 Dec 2022 04:55:40 +0900</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
         <guid>https://lucaseo90.github.io/tags/2022/</guid>
         <description></description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         
@@ -186,12 +186,12 @@
         <title>BlahBlah</title>
         <link>https://lucaseo90.github.io/tags/blahblah/</link>
         <pubDate>Thu, 29 Dec 2022 04:55:40 +0900</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
         <guid>https://lucaseo90.github.io/tags/blahblah/</guid>
         <description></description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         
@@ -204,12 +204,12 @@
         <title>Dec</title>
         <link>https://lucaseo90.github.io/tags/dec/</link>
         <pubDate>Thu, 29 Dec 2022 04:55:40 +0900</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
         <guid>https://lucaseo90.github.io/tags/dec/</guid>
         <description></description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         
@@ -222,12 +222,12 @@
         <title>Hugo</title>
         <link>https://lucaseo90.github.io/tags/hugo/</link>
         <pubDate>Sat, 12 Nov 2022 20:09:23 +0900</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
         <guid>https://lucaseo90.github.io/tags/hugo/</guid>
         <description></description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         
@@ -240,12 +240,12 @@
         <title>Search Engine</title>
         <link>https://lucaseo90.github.io/tags/search-engine/</link>
         <pubDate>Sat, 12 Nov 2022 20:09:23 +0900</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
         <guid>https://lucaseo90.github.io/tags/search-engine/</guid>
         <description></description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         
@@ -258,12 +258,12 @@
         <title>Book</title>
         <link>https://lucaseo90.github.io/tags/book/</link>
         <pubDate>Sat, 05 Nov 2022 11:06:09 +0900</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
         <guid>https://lucaseo90.github.io/tags/book/</guid>
         <description></description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         
@@ -276,12 +276,12 @@
         <title>Ultralearning</title>
         <link>https://lucaseo90.github.io/tags/ultralearning/</link>
         <pubDate>Sat, 05 Nov 2022 11:06:09 +0900</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
         <guid>https://lucaseo90.github.io/tags/ultralearning/</guid>
         <description></description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         
@@ -294,12 +294,12 @@
         <title>독서</title>
         <link>https://lucaseo90.github.io/tags/%EB%8F%85%EC%84%9C/</link>
         <pubDate>Sat, 05 Nov 2022 11:06:09 +0900</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
         <guid>https://lucaseo90.github.io/tags/%EB%8F%85%EC%84%9C/</guid>
         <description></description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         
@@ -312,12 +312,12 @@
         <title>울트라러닝</title>
         <link>https://lucaseo90.github.io/tags/%EC%9A%B8%ED%8A%B8%EB%9D%BC%EB%9F%AC%EB%8B%9D/</link>
         <pubDate>Sat, 05 Nov 2022 11:06:09 +0900</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
         <guid>https://lucaseo90.github.io/tags/%EC%9A%B8%ED%8A%B8%EB%9D%BC%EB%9F%AC%EB%8B%9D/</guid>
         <description></description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         
@@ -330,12 +330,12 @@
         <title>Comment</title>
         <link>https://lucaseo90.github.io/tags/comment/</link>
         <pubDate>Sat, 29 Oct 2022 11:32:33 +0900</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
         <guid>https://lucaseo90.github.io/tags/comment/</guid>
         <description></description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         
@@ -348,12 +348,12 @@
         <title>zzo theme</title>
         <link>https://lucaseo90.github.io/tags/zzo-theme/</link>
         <pubDate>Sat, 29 Oct 2022 11:32:33 +0900</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
         <guid>https://lucaseo90.github.io/tags/zzo-theme/</guid>
         <description></description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         
@@ -366,12 +366,12 @@
         <title>Sep</title>
         <link>https://lucaseo90.github.io/tags/sep/</link>
         <pubDate>Thu, 15 Sep 2022 18:44:48 +0900</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
         <guid>https://lucaseo90.github.io/tags/sep/</guid>
         <description></description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         
@@ -384,12 +384,12 @@
         <title>Aug</title>
         <link>https://lucaseo90.github.io/tags/aug/</link>
         <pubDate>Sat, 27 Aug 2022 22:04:15 +0900</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
         <guid>https://lucaseo90.github.io/tags/aug/</guid>
         <description></description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         
@@ -402,12 +402,12 @@
         <title>Jul</title>
         <link>https://lucaseo90.github.io/tags/jul/</link>
         <pubDate>Sat, 30 Jul 2022 11:20:32 +0900</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
         <guid>https://lucaseo90.github.io/tags/jul/</guid>
         <description></description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         
@@ -420,12 +420,12 @@
         <title>Algorithm</title>
         <link>https://lucaseo90.github.io/tags/algorithm/</link>
         <pubDate>Sat, 11 Jun 2022 16:21:14 +0900</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
         <guid>https://lucaseo90.github.io/tags/algorithm/</guid>
         <description></description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         
@@ -438,12 +438,12 @@
         <title>DynamicProgramming</title>
         <link>https://lucaseo90.github.io/tags/dynamicprogramming/</link>
         <pubDate>Sat, 11 Jun 2022 16:21:14 +0900</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
         <guid>https://lucaseo90.github.io/tags/dynamicprogramming/</guid>
         <description></description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         
@@ -456,12 +456,12 @@
         <title>Jun</title>
         <link>https://lucaseo90.github.io/tags/jun/</link>
         <pubDate>Sat, 11 Jun 2022 16:21:14 +0900</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
         <guid>https://lucaseo90.github.io/tags/jun/</guid>
         <description></description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         
@@ -474,12 +474,12 @@
         <title>Recursion</title>
         <link>https://lucaseo90.github.io/tags/recursion/</link>
         <pubDate>Sat, 11 Jun 2022 16:21:14 +0900</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
         <guid>https://lucaseo90.github.io/tags/recursion/</guid>
         <description></description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         
@@ -492,12 +492,12 @@
         <title>May</title>
         <link>https://lucaseo90.github.io/tags/may/</link>
         <pubDate>Sat, 28 May 2022 20:04:23 +0900</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
         <guid>https://lucaseo90.github.io/tags/may/</guid>
         <description></description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         
@@ -510,12 +510,12 @@
         <title>Apr</title>
         <link>https://lucaseo90.github.io/tags/apr/</link>
         <pubDate>Sat, 23 Apr 2022 18:13:42 +0900</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
         <guid>https://lucaseo90.github.io/tags/apr/</guid>
         <description></description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         
@@ -528,12 +528,12 @@
         <title>Mar</title>
         <link>https://lucaseo90.github.io/tags/mar/</link>
         <pubDate>Sat, 02 Apr 2022 18:23:38 +0900</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
         <guid>https://lucaseo90.github.io/tags/mar/</guid>
         <description></description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         
@@ -546,12 +546,12 @@
         <title>Feb</title>
         <link>https://lucaseo90.github.io/tags/feb/</link>
         <pubDate>Sat, 26 Feb 2022 11:20:53 +0900</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
         <guid>https://lucaseo90.github.io/tags/feb/</guid>
         <description></description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         
@@ -564,12 +564,12 @@
         <title>index</title>
         <link>https://lucaseo90.github.io/tags/index/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
         <guid>https://lucaseo90.github.io/tags/index/</guid>
         <description></description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         
@@ -582,12 +582,12 @@
         <title>Jan.</title>
         <link>https://lucaseo90.github.io/tags/jan./</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
         <guid>https://lucaseo90.github.io/tags/jan./</guid>
         <description></description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         

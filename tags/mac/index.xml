@@ -6,13 +6,13 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Mac on Hugo Zzo Theme</title>
+    <title>Mac on LAMA&#39;s Note</title>
     <link>https://lucaseo90.github.io/tags/mac/</link>
-    <description>Recent content in Mac on Hugo Zzo Theme</description>
+    <description>Recent content in Mac on LAMA&#39;s Note</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>hsseo0501@gmail.com (Lucaseo)</managingEditor>
-    <webMaster>hsseo0501@gmail.com (Lucaseo)</webMaster>
+    <managingEditor>hsseo0501@gmail.com (Hyunseok Seo)</managingEditor>
+    <webMaster>hsseo0501@gmail.com (Hyunseok Seo)</webMaster>
     <copyright>©2023, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 05 Jan 2023 19:45:05 +0900</lastBuildDate>
     
@@ -24,12 +24,12 @@
         <title>Mac 유틸리티</title>
         <link>https://lucaseo90.github.io/posts/230105-mac-utility/</link>
         <pubDate>Thu, 05 Jan 2023 19:45:05 +0900</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         <atom:modified>Thu, 05 Jan 2023 19:45:05 +0900</atom:modified>
         <guid>https://lucaseo90.github.io/posts/230105-mac-utility/</guid>
         <description>들어가면서 Mac을 사용하면서 설치한 유틸리티를 소개한다. Homebrew Homebrew는 macOS용 패키지 관리자이다. Homebrew를 사용하면 macOS</description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         

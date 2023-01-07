@@ -6,13 +6,13 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>2023 on Hugo Zzo Theme</title>
+    <title>2023 on LAMA&#39;s Note</title>
     <link>https://lucaseo90.github.io/tags/2023/</link>
-    <description>Recent content in 2023 on Hugo Zzo Theme</description>
+    <description>Recent content in 2023 on LAMA&#39;s Note</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>hsseo0501@gmail.com (Lucaseo)</managingEditor>
-    <webMaster>hsseo0501@gmail.com (Lucaseo)</webMaster>
+    <managingEditor>hsseo0501@gmail.com (Hyunseok Seo)</managingEditor>
+    <webMaster>hsseo0501@gmail.com (Hyunseok Seo)</webMaster>
     <copyright>©2023, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 05 Jan 2023 19:45:05 +0900</lastBuildDate>
     
@@ -24,12 +24,12 @@
         <title>Mac 유틸리티</title>
         <link>https://lucaseo90.github.io/posts/230105-mac-utility/</link>
         <pubDate>Thu, 05 Jan 2023 19:45:05 +0900</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         <atom:modified>Thu, 05 Jan 2023 19:45:05 +0900</atom:modified>
         <guid>https://lucaseo90.github.io/posts/230105-mac-utility/</guid>
         <description>들어가면서 Mac을 사용하면서 설치한 유틸리티를 소개한다. Homebrew Homebrew는 macOS용 패키지 관리자이다. Homebrew를 사용하면 macOS</description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         
@@ -60,12 +60,12 @@
         <title>ts-node</title>
         <link>https://lucaseo90.github.io/posts/230104-ts-node/</link>
         <pubDate>Wed, 04 Jan 2023 20:10:59 +0900</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         <atom:modified>Wed, 04 Jan 2023 20:10:59 +0900</atom:modified>
         <guid>https://lucaseo90.github.io/posts/230104-ts-node/</guid>
         <description>들어가면서 Node.js 기반의 TypeScript 프로젝트를 개발하면서 ts-node를 사용하면 개발 편의성이 높아지는 것을 느꼈다. ts-node는 TypeScript를 Jav</description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         
@@ -96,12 +96,12 @@
         <title>AWS Credentials 설정</title>
         <link>https://lucaseo90.github.io/posts/230103-environment/</link>
         <pubDate>Tue, 03 Jan 2023 19:00:40 +0900</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         <atom:modified>Tue, 03 Jan 2023 19:00:40 +0900</atom:modified>
         <guid>https://lucaseo90.github.io/posts/230103-environment/</guid>
         <description>들어가면서 개발을 위해 AWS(Amazon Web Service)를 사용하기 위해서는 AWS 계정을 기반으로 하는 AWS Credentials가 필요하다. AWS 계정이 있다는 가정하에 AWS C</description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         
@@ -132,12 +132,12 @@
         <title>NVM 및 Node 설치</title>
         <link>https://lucaseo90.github.io/posts/230102-environment/</link>
         <pubDate>Mon, 02 Jan 2023 19:40:13 +0900</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         <atom:modified>Mon, 02 Jan 2023 19:40:13 +0900</atom:modified>
         <guid>https://lucaseo90.github.io/posts/230102-environment/</guid>
         <description>노드 개발환경 세팅 macOS에서 Node.js 기반 애플리케이션 개발을 위해 Node를 설치하는 방법에 관해 설명한다. Homebrew 설치 NVM (Node Version Manager) 설치 NVM을 이용한 Node 설치 Homebrew 설치</description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         

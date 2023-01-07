@@ -6,13 +6,13 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Hugo on Hugo Zzo Theme</title>
+    <title>Hugo on LAMA&#39;s Note</title>
     <link>https://lucaseo90.github.io/tags/hugo/</link>
-    <description>Recent content in Hugo on Hugo Zzo Theme</description>
+    <description>Recent content in Hugo on LAMA&#39;s Note</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>hsseo0501@gmail.com (Lucaseo)</managingEditor>
-    <webMaster>hsseo0501@gmail.com (Lucaseo)</webMaster>
+    <managingEditor>hsseo0501@gmail.com (Hyunseok Seo)</managingEditor>
+    <webMaster>hsseo0501@gmail.com (Hyunseok Seo)</webMaster>
     <copyright>©2023, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 12 Nov 2022 20:09:23 +0900</lastBuildDate>
     
@@ -24,12 +24,12 @@
         <title>검색 엔진에 블로그 노출하기</title>
         <link>https://lucaseo90.github.io/posts/221112-hugo-search-engine/</link>
         <pubDate>Sat, 12 Nov 2022 20:09:23 +0900</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         <atom:modified>Sat, 12 Nov 2022 20:09:23 +0900</atom:modified>
         <guid>https://lucaseo90.github.io/posts/221112-hugo-search-engine/</guid>
         <description>검색 엔진에 블로그 노출시키기를 따라서 구글 검색 엔진에 노출되도록 했다. Google Search Console에 속성 추가 Google Search Console에 접속해서 시작하기 버튼 클릭 ur</description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         
@@ -58,12 +58,12 @@
         <title>Hugo 댓글 기능 추가하기</title>
         <link>https://lucaseo90.github.io/posts/221029-hugo-comment/</link>
         <pubDate>Sat, 29 Oct 2022 11:32:33 +0900</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         <atom:modified>Sat, 29 Oct 2022 11:32:33 +0900</atom:modified>
         <guid>https://lucaseo90.github.io/posts/221029-hugo-comment/</guid>
         <description>들어가기에 앞서 해당 블로그는 zzo 테마를 사용하고 있다. 사실 댓글 기능이 꼭 필요할지는 모르겠지만, 댓글 기능이 있으면 추후 양방향 소통이 가능한 장점이 있기 때문에</description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         

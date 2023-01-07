@@ -6,13 +6,13 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Algorithm on Hugo Zzo Theme</title>
+    <title>Algorithm on LAMA&#39;s Note</title>
     <link>https://lucaseo90.github.io/categories/algorithm/</link>
-    <description>Recent content in Algorithm on Hugo Zzo Theme</description>
+    <description>Recent content in Algorithm on LAMA&#39;s Note</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>hsseo0501@gmail.com (Lucaseo)</managingEditor>
-    <webMaster>hsseo0501@gmail.com (Lucaseo)</webMaster>
+    <managingEditor>hsseo0501@gmail.com (Hyunseok Seo)</managingEditor>
+    <webMaster>hsseo0501@gmail.com (Hyunseok Seo)</webMaster>
     <copyright>©2023, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 11 Jun 2022 16:21:14 +0900</lastBuildDate>
     
@@ -24,12 +24,12 @@
         <title>Recursion &amp; Dynamic Programming</title>
         <link>https://lucaseo90.github.io/posts/220611-algo/</link>
         <pubDate>Sat, 11 Jun 2022 16:21:14 +0900</pubDate>
-        <author>hsseo0501@gmail.com (Lucaseo)</author>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         <atom:modified>Sat, 11 Jun 2022 16:21:14 +0900</atom:modified>
         <guid>https://lucaseo90.github.io/posts/220611-algo/</guid>
         <description>Recursion 자기 자신을 호출하는 것을 의미 예제: fibonacci number 1 2 3 4 5 6 int fibonacci(int n) { if (n &amp;lt;= 1) { return n; } return fibonacci(n-2) + fibonacci(n-1); } time complexity: O(2^n) 재귀 문제는 주어진 문제를 하위 문제로 나누고, 나누어진 문</description>
         
-        <dc:creator>Lucaseo</dc:creator>
+        <dc:creator>Hyunseok Seo</dc:creator>
         
         
         
