@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Apr on LAMA&#39;s Note</title>
-    <link>https://lucaseo90.github.io/tags/apr/</link>
+    <link>https://lami90.github.io/tags/apr/</link>
     <description>Recent content in Apr on LAMA&#39;s Note</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©2023, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 23 Apr 2022 18:13:42 +0900</lastBuildDate>
     
-        <atom:link href="https://lucaseo90.github.io/tags/apr/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://lami90.github.io/tags/apr/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Blahblah</title>
-        <link>https://lucaseo90.github.io/posts/220423-blahblah/</link>
+        <link>https://lami90.github.io/posts/220423-blahblah/</link>
         <pubDate>Sat, 23 Apr 2022 18:13:42 +0900</pubDate>
         <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         <atom:modified>Sat, 23 Apr 2022 18:13:42 +0900</atom:modified>
-        <guid>https://lucaseo90.github.io/posts/220423-blahblah/</guid>
+        <guid>https://lami90.github.io/posts/220423-blahblah/</guid>
         <description>XHTML 파서를 만들어서 사용한 지도 2달, 프로덕트 개발에는 사용하지도 않았던 Python으로 만들어서 그런지 점점 코드가 거대해진다. 나름대로 생각하면서 만들었</description>
         
         <dc:creator>Hyunseok Seo</dc:creator>
@@ -64,11 +64,11 @@
       
       <item>
         <title>Blahblah</title>
-        <link>https://lucaseo90.github.io/posts/220416-blahblah/</link>
+        <link>https://lami90.github.io/posts/220416-blahblah/</link>
         <pubDate>Sat, 16 Apr 2022 11:10:04 +0900</pubDate>
         <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         <atom:modified>Sat, 16 Apr 2022 11:10:04 +0900</atom:modified>
-        <guid>https://lucaseo90.github.io/posts/220416-blahblah/</guid>
+        <guid>https://lami90.github.io/posts/220416-blahblah/</guid>
         <description>객체 지향 설계에 SOLID 라는 원칙이 있다. 위키피디아 내용을 발췌하면 목적은 다음과 같고, 각 문자들은 SRP(Single responsibility principle), OCP(Open/closed principle), L(Liskov substitution principle), I(Interface segregation principle), D(Dependency inversion principle)를 의미한다</description>
         
         <dc:creator>Hyunseok Seo</dc:creator>
@@ -106,11 +106,11 @@
       
       <item>
         <title>Blahblah</title>
-        <link>https://lucaseo90.github.io/posts/220409-blahblah/</link>
+        <link>https://lami90.github.io/posts/220409-blahblah/</link>
         <pubDate>Sat, 09 Apr 2022 11:19:51 +0900</pubDate>
         <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         <atom:modified>Sat, 09 Apr 2022 11:19:51 +0900</atom:modified>
-        <guid>https://lucaseo90.github.io/posts/220409-blahblah/</guid>
+        <guid>https://lami90.github.io/posts/220409-blahblah/</guid>
         <description>잠시 내가 무언가라도 된 듯이 착각했다. 기준보다 형편없다고 느껴지는 결과를 받아들이며, 표면적으로는 이루었다고 느낀 성과는 허상이었고 그 허상을 걷어내기로 했</description>
         
         <dc:creator>Hyunseok Seo</dc:creator>
