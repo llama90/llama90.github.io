@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Categories on LAMA&#39;s Note</title>
-    <link>https://lami90.github.io/categories/</link>
-    <description>Recent content in Categories on LAMA&#39;s Note</description>
+    <title>Categories on LLAMA&#39;s Note</title>
+    <link>https://llama90.github.io/categories/</link>
+    <description>Recent content in Categories on LLAMA&#39;s Note</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hsseo0501@gmail.com (Hyunseok Seo)</managingEditor>
@@ -16,17 +16,17 @@
     <copyright>©2023, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 29 Dec 2022 04:55:40 +0900</lastBuildDate>
     
-        <atom:link href="https://lami90.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://llama90.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>BlahBlah</title>
-        <link>https://lami90.github.io/categories/blahblah/</link>
+        <link>https://llama90.github.io/categories/blahblah/</link>
         <pubDate>Thu, 29 Dec 2022 04:55:40 +0900</pubDate>
         <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
-        <guid>https://lami90.github.io/categories/blahblah/</guid>
+        <guid>https://llama90.github.io/categories/blahblah/</guid>
         <description></description>
         
         <dc:creator>Hyunseok Seo</dc:creator>
@@ -40,11 +40,11 @@
       
       <item>
         <title>개인</title>
-        <link>https://lami90.github.io/categories/%EA%B0%9C%EC%9D%B8/</link>
+        <link>https://llama90.github.io/categories/%EA%B0%9C%EC%9D%B8/</link>
         <pubDate>Thu, 29 Dec 2022 04:55:40 +0900</pubDate>
         <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
-        <guid>https://lami90.github.io/categories/%EA%B0%9C%EC%9D%B8/</guid>
+        <guid>https://llama90.github.io/categories/%EA%B0%9C%EC%9D%B8/</guid>
         <description></description>
         
         <dc:creator>Hyunseok Seo</dc:creator>
@@ -58,11 +58,11 @@
       
       <item>
         <title>Hugo</title>
-        <link>https://lami90.github.io/categories/hugo/</link>
+        <link>https://llama90.github.io/categories/hugo/</link>
         <pubDate>Sat, 12 Nov 2022 20:09:23 +0900</pubDate>
         <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
-        <guid>https://lami90.github.io/categories/hugo/</guid>
+        <guid>https://llama90.github.io/categories/hugo/</guid>
         <description></description>
         
         <dc:creator>Hyunseok Seo</dc:creator>
@@ -76,11 +76,11 @@
       
       <item>
         <title>Good Book</title>
-        <link>https://lami90.github.io/categories/good-book/</link>
+        <link>https://llama90.github.io/categories/good-book/</link>
         <pubDate>Sat, 05 Nov 2022 11:06:09 +0900</pubDate>
         <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
-        <guid>https://lami90.github.io/categories/good-book/</guid>
+        <guid>https://llama90.github.io/categories/good-book/</guid>
         <description></description>
         
         <dc:creator>Hyunseok Seo</dc:creator>
@@ -94,11 +94,11 @@
       
       <item>
         <title>Algorithm</title>
-        <link>https://lami90.github.io/categories/algorithm/</link>
+        <link>https://llama90.github.io/categories/algorithm/</link>
         <pubDate>Sat, 11 Jun 2022 16:21:14 +0900</pubDate>
         <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
-        <guid>https://lami90.github.io/categories/algorithm/</guid>
+        <guid>https://llama90.github.io/categories/algorithm/</guid>
         <description></description>
         
         <dc:creator>Hyunseok Seo</dc:creator>

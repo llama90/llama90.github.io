@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>2022 on LAMA&#39;s Note</title>
-    <link>https://lami90.github.io/tags/2022/</link>
-    <description>Recent content in 2022 on LAMA&#39;s Note</description>
+    <title>2022 on LLAMA&#39;s Note</title>
+    <link>https://llama90.github.io/tags/2022/</link>
+    <description>Recent content in 2022 on LLAMA&#39;s Note</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hsseo0501@gmail.com (Hyunseok Seo)</managingEditor>
@@ -16,17 +16,17 @@
     <copyright>©2023, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 29 Dec 2022 04:55:40 +0900</lastBuildDate>
     
-        <atom:link href="https://lami90.github.io/tags/2022/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://llama90.github.io/tags/2022/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>2022년 하반기 회고</title>
-        <link>https://lami90.github.io/posts/221229-retrospection/</link>
+        <link>https://llama90.github.io/posts/221229-retrospection/</link>
         <pubDate>Thu, 29 Dec 2022 04:55:40 +0900</pubDate>
         <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         <atom:modified>Thu, 29 Dec 2022 04:55:40 +0900</atom:modified>
-        <guid>https://lami90.github.io/posts/221229-retrospection/</guid>
+        <guid>https://llama90.github.io/posts/221229-retrospection/</guid>
         <description>하반기 회고 해라 연말이 되니 머릿속에서 회고하라고 시킨다. 어느덧 2022년도 한해가 지나가고 무엇을 했었나 정리해 본다. 생각하는 동그라미 논리적 식별자 추가</description>
         
         <dc:creator>Hyunseok Seo</dc:creator>
@@ -64,11 +64,11 @@
       
       <item>
         <title>Blahblah</title>
-        <link>https://lami90.github.io/posts/20220915-blahblah/</link>
+        <link>https://llama90.github.io/posts/20220915-blahblah/</link>
         <pubDate>Thu, 15 Sep 2022 18:44:48 +0900</pubDate>
         <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         <atom:modified>Thu, 15 Sep 2022 18:44:48 +0900</atom:modified>
-        <guid>https://lami90.github.io/posts/20220915-blahblah/</guid>
+        <guid>https://llama90.github.io/posts/20220915-blahblah/</guid>
         <description>휴식에 대한 생각 사회 초년생 때도 그렇고 현재도 그렇고 뭔가 느긋함을 온전히 즐기지는 못하는 듯한 느낌이다. 그나마 나아진 게 있다면 주어진 휴식 시간을 받아들이려고</description>
         
         <dc:creator>Hyunseok Seo</dc:creator>
@@ -106,11 +106,11 @@
       
       <item>
         <title>Blahblah</title>
-        <link>https://lami90.github.io/posts/20220907-blahblah/</link>
+        <link>https://llama90.github.io/posts/20220907-blahblah/</link>
         <pubDate>Wed, 07 Sep 2022 13:42:23 +0900</pubDate>
         <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         <atom:modified>Wed, 07 Sep 2022 13:42:23 +0900</atom:modified>
-        <guid>https://lami90.github.io/posts/20220907-blahblah/</guid>
+        <guid>https://llama90.github.io/posts/20220907-blahblah/</guid>
         <description>이번 연휴에 생각해볼 세 가지 휴식에 대한 생각 일을 왜 하는가에 대한 생각 바라는 모습과 현재 모습의 차이</description>
         
         <dc:creator>Hyunseok Seo</dc:creator>
@@ -148,11 +148,11 @@
       
       <item>
         <title>Blahblah</title>
-        <link>https://lami90.github.io/posts/20220827-blahblah/</link>
+        <link>https://llama90.github.io/posts/20220827-blahblah/</link>
         <pubDate>Sat, 27 Aug 2022 22:04:15 +0900</pubDate>
         <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         <atom:modified>Sat, 27 Aug 2022 22:04:15 +0900</atom:modified>
-        <guid>https://lami90.github.io/posts/20220827-blahblah/</guid>
+        <guid>https://llama90.github.io/posts/20220827-blahblah/</guid>
         <description>변하지 않는 것을 이해하기 위해 기본에 집중 -&amp;gt; 기본이 중요한 이유 Data Structure Algorithm Design Pattern System Design Operating System Database Network &amp;hellip;</description>
         
         <dc:creator>Hyunseok Seo</dc:creator>
@@ -190,11 +190,11 @@
       
       <item>
         <title>Blahblah</title>
-        <link>https://lami90.github.io/posts/20220820-blahblah/</link>
+        <link>https://llama90.github.io/posts/20220820-blahblah/</link>
         <pubDate>Sat, 20 Aug 2022 17:52:45 +0900</pubDate>
         <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         <atom:modified>Sat, 20 Aug 2022 17:52:45 +0900</atom:modified>
-        <guid>https://lami90.github.io/posts/20220820-blahblah/</guid>
+        <guid>https://llama90.github.io/posts/20220820-blahblah/</guid>
         <description>스스로 가장 나쁜 점이라고 생각하면서 동시에 그나마 이런 습관이라도 있어서 뭐라도 되는 게 아닐까 싶은 습관 한 가지가 있다. 일이 잘 진행되든 잘 진행되지 않든, 하고 싶</description>
         
         <dc:creator>Hyunseok Seo</dc:creator>
@@ -232,11 +232,11 @@
       
       <item>
         <title>Blahblah</title>
-        <link>https://lami90.github.io/posts/20220813-blahblah/</link>
+        <link>https://llama90.github.io/posts/20220813-blahblah/</link>
         <pubDate>Sat, 13 Aug 2022 16:52:26 +0900</pubDate>
         <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         <atom:modified>Sat, 13 Aug 2022 16:52:26 +0900</atom:modified>
-        <guid>https://lami90.github.io/posts/20220813-blahblah/</guid>
+        <guid>https://llama90.github.io/posts/20220813-blahblah/</guid>
         <description>2022 상반기 회고 회사 AWS 환경에서의 데이터 플랫폼 개발이 역할로 자리 잡음 AWS 환경에서 CDK 를 활용한 Serverless 구조 개발 속도와 기술 선택 사이에서 서비스 방향성을 생각하며 개발 최</description>
         
         <dc:creator>Hyunseok Seo</dc:creator>
@@ -274,11 +274,11 @@
       
       <item>
         <title>Blahblah</title>
-        <link>https://lami90.github.io/posts/20220806-blahblah/</link>
+        <link>https://llama90.github.io/posts/20220806-blahblah/</link>
         <pubDate>Sat, 06 Aug 2022 14:54:42 +0900</pubDate>
         <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         <atom:modified>Sat, 06 Aug 2022 14:54:42 +0900</atom:modified>
-        <guid>https://lami90.github.io/posts/20220806-blahblah/</guid>
+        <guid>https://llama90.github.io/posts/20220806-blahblah/</guid>
         <description>리소스를 잘못 삭제해서 데이터 손실이 발생했다. 평화롭게 업무를 진행하던 오후, 리드의 호출이 발생했다. &amp;ldquo;XX 데이터 제대로 들어오고 있는 거 맞나요? 어제 특정 시간</description>
         
         <dc:creator>Hyunseok Seo</dc:creator>
@@ -316,11 +316,11 @@
       
       <item>
         <title>Blahblah</title>
-        <link>https://lami90.github.io/posts/20220730-blahblah/</link>
+        <link>https://llama90.github.io/posts/20220730-blahblah/</link>
         <pubDate>Sat, 30 Jul 2022 11:20:32 +0900</pubDate>
         <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         <atom:modified>Sat, 30 Jul 2022 11:20:32 +0900</atom:modified>
-        <guid>https://lami90.github.io/posts/20220730-blahblah/</guid>
+        <guid>https://llama90.github.io/posts/20220730-blahblah/</guid>
         <description>Youtube 에서 [리처드 파인만] &amp;ldquo;왜 자석은 서로 밀어내는가?에 대한 답변 을 보면서 든 생각을 정리해본다. 질문에 답하기 위해서는 질문자의 배경지식(아는</description>
         
         <dc:creator>Hyunseok Seo</dc:creator>
@@ -358,11 +358,11 @@
       
       <item>
         <title>Recursion &amp; Dynamic Programming</title>
-        <link>https://lami90.github.io/posts/220611-algo/</link>
+        <link>https://llama90.github.io/posts/220611-algo/</link>
         <pubDate>Sat, 11 Jun 2022 16:21:14 +0900</pubDate>
         <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         <atom:modified>Sat, 11 Jun 2022 16:21:14 +0900</atom:modified>
-        <guid>https://lami90.github.io/posts/220611-algo/</guid>
+        <guid>https://llama90.github.io/posts/220611-algo/</guid>
         <description>Recursion 자기 자신을 호출하는 것을 의미 예제: fibonacci number 1 2 3 4 5 6 int fibonacci(int n) { if (n &amp;lt;= 1) { return n; } return fibonacci(n-2) + fibonacci(n-1); } time complexity: O(2^n) 재귀 문제는 주어진 문제를 하위 문제로 나누고, 나누어진 문</description>
         
         <dc:creator>Hyunseok Seo</dc:creator>
@@ -404,11 +404,11 @@
       
       <item>
         <title>Blahblah</title>
-        <link>https://lami90.github.io/posts/220528-blahblah/</link>
+        <link>https://llama90.github.io/posts/220528-blahblah/</link>
         <pubDate>Sat, 28 May 2022 20:04:23 +0900</pubDate>
         <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         <atom:modified>Sat, 28 May 2022 20:04:23 +0900</atom:modified>
-        <guid>https://lami90.github.io/posts/220528-blahblah/</guid>
+        <guid>https://llama90.github.io/posts/220528-blahblah/</guid>
         <description>리모트 근무를 시작하고 목, 어깨, 허리 등등&amp;hellip; 앉아 있는 생활로 인해 건강이 안 좋아졌다는 것을 느낀다. 장기적으로 개발을 지속 가능할 수 있도록 건강</description>
         
         <dc:creator>Hyunseok Seo</dc:creator>
@@ -446,11 +446,11 @@
       
       <item>
         <title>Blahblah</title>
-        <link>https://lami90.github.io/posts/220521-blahblah/</link>
+        <link>https://llama90.github.io/posts/220521-blahblah/</link>
         <pubDate>Sat, 21 May 2022 11:51:15 +0900</pubDate>
         <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         <atom:modified>Sat, 21 May 2022 11:51:15 +0900</atom:modified>
-        <guid>https://lami90.github.io/posts/220521-blahblah/</guid>
+        <guid>https://llama90.github.io/posts/220521-blahblah/</guid>
         <description>회사에 대한 충성과 충성에 대한 보상 보상이 먼저냐 충성이 먼저냐에 대한 이야기는 각설하고, 회사는 잡혀 있는 물고기에 큰 신경을 쓰지 않는다는 생각이다. 사업상 직원</description>
         
         <dc:creator>Hyunseok Seo</dc:creator>
@@ -488,11 +488,11 @@
       
       <item>
         <title>Blahblah</title>
-        <link>https://lami90.github.io/posts/220514-blahblah/</link>
+        <link>https://llama90.github.io/posts/220514-blahblah/</link>
         <pubDate>Sat, 14 May 2022 21:50:39 +0900</pubDate>
         <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         <atom:modified>Sat, 14 May 2022 21:50:39 +0900</atom:modified>
-        <guid>https://lami90.github.io/posts/220514-blahblah/</guid>
+        <guid>https://llama90.github.io/posts/220514-blahblah/</guid>
         <description>개발은 언제 끝날까? 라고 생각해보니 끝이 없겠다고 생각한다. 외부적 요인으로는 요구사항, 내부적 요인으로는 외부적 요인으로 인해 변경되는 코드와 부채. 오히려</description>
         
         <dc:creator>Hyunseok Seo</dc:creator>
@@ -530,11 +530,11 @@
       
       <item>
         <title>Blahblah</title>
-        <link>https://lami90.github.io/posts/220507-blahblah/</link>
+        <link>https://llama90.github.io/posts/220507-blahblah/</link>
         <pubDate>Sat, 07 May 2022 11:09:57 +0900</pubDate>
         <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         <atom:modified>Sat, 07 May 2022 11:09:57 +0900</atom:modified>
-        <guid>https://lami90.github.io/posts/220507-blahblah/</guid>
+        <guid>https://llama90.github.io/posts/220507-blahblah/</guid>
         <description>전임 프로그래머는 다 무능력하다 같은 언어와 프레임워크를 사용하면서도 누구는 간결하고 이해하기 쉬운 코드를 작성하고, 누구는 중복되는 로직과 기능별로 장황해지</description>
         
         <dc:creator>Hyunseok Seo</dc:creator>
@@ -572,11 +572,11 @@
       
       <item>
         <title>Blahblah</title>
-        <link>https://lami90.github.io/posts/220423-blahblah/</link>
+        <link>https://llama90.github.io/posts/220423-blahblah/</link>
         <pubDate>Sat, 23 Apr 2022 18:13:42 +0900</pubDate>
         <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         <atom:modified>Sat, 23 Apr 2022 18:13:42 +0900</atom:modified>
-        <guid>https://lami90.github.io/posts/220423-blahblah/</guid>
+        <guid>https://llama90.github.io/posts/220423-blahblah/</guid>
         <description>XHTML 파서를 만들어서 사용한 지도 2달, 프로덕트 개발에는 사용하지도 않았던 Python으로 만들어서 그런지 점점 코드가 거대해진다. 나름대로 생각하면서 만들었</description>
         
         <dc:creator>Hyunseok Seo</dc:creator>
@@ -614,11 +614,11 @@
       
       <item>
         <title>Blahblah</title>
-        <link>https://lami90.github.io/posts/220416-blahblah/</link>
+        <link>https://llama90.github.io/posts/220416-blahblah/</link>
         <pubDate>Sat, 16 Apr 2022 11:10:04 +0900</pubDate>
         <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         <atom:modified>Sat, 16 Apr 2022 11:10:04 +0900</atom:modified>
-        <guid>https://lami90.github.io/posts/220416-blahblah/</guid>
+        <guid>https://llama90.github.io/posts/220416-blahblah/</guid>
         <description>객체 지향 설계에 SOLID 라는 원칙이 있다. 위키피디아 내용을 발췌하면 목적은 다음과 같고, 각 문자들은 SRP(Single responsibility principle), OCP(Open/closed principle), L(Liskov substitution principle), I(Interface segregation principle), D(Dependency inversion principle)를 의미한다</description>
         
         <dc:creator>Hyunseok Seo</dc:creator>
@@ -656,11 +656,11 @@
       
       <item>
         <title>Blahblah</title>
-        <link>https://lami90.github.io/posts/220409-blahblah/</link>
+        <link>https://llama90.github.io/posts/220409-blahblah/</link>
         <pubDate>Sat, 09 Apr 2022 11:19:51 +0900</pubDate>
         <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         <atom:modified>Sat, 09 Apr 2022 11:19:51 +0900</atom:modified>
-        <guid>https://lami90.github.io/posts/220409-blahblah/</guid>
+        <guid>https://llama90.github.io/posts/220409-blahblah/</guid>
         <description>잠시 내가 무언가라도 된 듯이 착각했다. 기준보다 형편없다고 느껴지는 결과를 받아들이며, 표면적으로는 이루었다고 느낀 성과는 허상이었고 그 허상을 걷어내기로 했</description>
         
         <dc:creator>Hyunseok Seo</dc:creator>
@@ -698,11 +698,11 @@
       
       <item>
         <title>Blahblah</title>
-        <link>https://lami90.github.io/posts/220402-blahblah/</link>
+        <link>https://llama90.github.io/posts/220402-blahblah/</link>
         <pubDate>Sat, 02 Apr 2022 18:23:38 +0900</pubDate>
         <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         <atom:modified>Sat, 02 Apr 2022 18:23:38 +0900</atom:modified>
-        <guid>https://lami90.github.io/posts/220402-blahblah/</guid>
+        <guid>https://llama90.github.io/posts/220402-blahblah/</guid>
         <description>습관적으로 심던 잔디를 그만 심기로 했다. 그리고 Contribution settings의 Private contributions를 비활성화했다. contribution history를 확인해보면 2018, 20</description>
         
         <dc:creator>Hyunseok Seo</dc:creator>
@@ -740,11 +740,11 @@
       
       <item>
         <title>Blahblah</title>
-        <link>https://lami90.github.io/posts/220319-blahblah/</link>
+        <link>https://llama90.github.io/posts/220319-blahblah/</link>
         <pubDate>Sat, 19 Mar 2022 17:29:14 +0900</pubDate>
         <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         <atom:modified>Sat, 19 Mar 2022 17:29:14 +0900</atom:modified>
-        <guid>https://lami90.github.io/posts/220319-blahblah/</guid>
+        <guid>https://llama90.github.io/posts/220319-blahblah/</guid>
         <description>출근 시간에 대한 논쟁을 보면서 드는 생각.. 근무시간이 09:00 ~ 18:00 일 때 발생하는 의견 차이를 보면서 드는 생각을 정리해본다. 09:00 이전에만 도착하면 된다. vs. 10분 정도</description>
         
         <dc:creator>Hyunseok Seo</dc:creator>
@@ -782,11 +782,11 @@
       
       <item>
         <title>Blahblah</title>
-        <link>https://lami90.github.io/posts/220312-blahblah/</link>
+        <link>https://llama90.github.io/posts/220312-blahblah/</link>
         <pubDate>Sat, 12 Mar 2022 11:23:41 +0900</pubDate>
         <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         <atom:modified>Sat, 12 Mar 2022 11:23:41 +0900</atom:modified>
-        <guid>https://lami90.github.io/posts/220312-blahblah/</guid>
+        <guid>https://llama90.github.io/posts/220312-blahblah/</guid>
         <description>선택이 망했다고 생각이 들 때 어떻게 해야 할까? Life is C between B and D - Jean-Paul Sartre 인생은 탄생(Birth)와 죽음(Death) 사이의 선택(Choice)이라고 한다</description>
         
         <dc:creator>Hyunseok Seo</dc:creator>
@@ -824,11 +824,11 @@
       
       <item>
         <title>Blahblah</title>
-        <link>https://lami90.github.io/posts/220305-blahblah/</link>
+        <link>https://llama90.github.io/posts/220305-blahblah/</link>
         <pubDate>Sat, 05 Mar 2022 14:50:57 +0900</pubDate>
         <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         <atom:modified>Sat, 05 Mar 2022 14:50:57 +0900</atom:modified>
-        <guid>https://lami90.github.io/posts/220305-blahblah/</guid>
+        <guid>https://llama90.github.io/posts/220305-blahblah/</guid>
         <description>시간이 나는 데로 틈틈이 Python의 Beautiful Soup 패키지를 활용해 XHTML 파서를 만들고 있다. 개인적인 취미(?)에서 불필요한 반복을 없애려는 목적이 가장 크다. 전부 수작</description>
         
         <dc:creator>Hyunseok Seo</dc:creator>
@@ -866,11 +866,11 @@
       
       <item>
         <title>Blahblah</title>
-        <link>https://lami90.github.io/posts/210226-blahblah/</link>
+        <link>https://llama90.github.io/posts/210226-blahblah/</link>
         <pubDate>Sat, 26 Feb 2022 11:20:53 +0900</pubDate>
         <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         <atom:modified>Sat, 26 Feb 2022 11:20:53 +0900</atom:modified>
-        <guid>https://lami90.github.io/posts/210226-blahblah/</guid>
+        <guid>https://llama90.github.io/posts/210226-blahblah/</guid>
         <description>2015년 05월에 사회생활을 시작하고 벌써 8년이 돼간다. 생각해보면 대학교 때도 적성에 안 맞는다고 생각했던 임베디드 소프트웨어 개발자를 시작으로, 한가지</description>
         
         <dc:creator>Hyunseok Seo</dc:creator>

@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Node on LAMA&#39;s Note</title>
-    <link>https://lami90.github.io/tags/node/</link>
-    <description>Recent content in Node on LAMA&#39;s Note</description>
+    <title>Node on LLAMA&#39;s Note</title>
+    <link>https://llama90.github.io/tags/node/</link>
+    <description>Recent content in Node on LLAMA&#39;s Note</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hsseo0501@gmail.com (Hyunseok Seo)</managingEditor>
@@ -16,17 +16,17 @@
     <copyright>©2023, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 02 Jan 2023 19:40:13 +0900</lastBuildDate>
     
-        <atom:link href="https://lami90.github.io/tags/node/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://llama90.github.io/tags/node/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>NVM 및 Node 설치</title>
-        <link>https://lami90.github.io/posts/230102-environment/</link>
+        <link>https://llama90.github.io/posts/230102-environment/</link>
         <pubDate>Mon, 02 Jan 2023 19:40:13 +0900</pubDate>
         <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         <atom:modified>Mon, 02 Jan 2023 19:40:13 +0900</atom:modified>
-        <guid>https://lami90.github.io/posts/230102-environment/</guid>
+        <guid>https://llama90.github.io/posts/230102-environment/</guid>
         <description>노드 개발환경 세팅 macOS에서 Node.js 기반 애플리케이션 개발을 위해 Node를 설치하는 방법에 관해 설명한다. Homebrew 설치 NVM (Node Version Manager) 설치 NVM을 이용한 Node 설치 Homebrew 설치</description>
         
         <dc:creator>Hyunseok Seo</dc:creator>

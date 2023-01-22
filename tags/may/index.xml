@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>May on LAMA&#39;s Note</title>
-    <link>https://lami90.github.io/tags/may/</link>
-    <description>Recent content in May on LAMA&#39;s Note</description>
+    <title>May on LLAMA&#39;s Note</title>
+    <link>https://llama90.github.io/tags/may/</link>
+    <description>Recent content in May on LLAMA&#39;s Note</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hsseo0501@gmail.com (Hyunseok Seo)</managingEditor>
@@ -16,17 +16,17 @@
     <copyright>©2023, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 28 May 2022 20:04:23 +0900</lastBuildDate>
     
-        <atom:link href="https://lami90.github.io/tags/may/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://llama90.github.io/tags/may/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Blahblah</title>
-        <link>https://lami90.github.io/posts/220528-blahblah/</link>
+        <link>https://llama90.github.io/posts/220528-blahblah/</link>
         <pubDate>Sat, 28 May 2022 20:04:23 +0900</pubDate>
         <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         <atom:modified>Sat, 28 May 2022 20:04:23 +0900</atom:modified>
-        <guid>https://lami90.github.io/posts/220528-blahblah/</guid>
+        <guid>https://llama90.github.io/posts/220528-blahblah/</guid>
         <description>리모트 근무를 시작하고 목, 어깨, 허리 등등&amp;hellip; 앉아 있는 생활로 인해 건강이 안 좋아졌다는 것을 느낀다. 장기적으로 개발을 지속 가능할 수 있도록 건강</description>
         
         <dc:creator>Hyunseok Seo</dc:creator>
@@ -64,11 +64,11 @@
       
       <item>
         <title>Blahblah</title>
-        <link>https://lami90.github.io/posts/220521-blahblah/</link>
+        <link>https://llama90.github.io/posts/220521-blahblah/</link>
         <pubDate>Sat, 21 May 2022 11:51:15 +0900</pubDate>
         <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         <atom:modified>Sat, 21 May 2022 11:51:15 +0900</atom:modified>
-        <guid>https://lami90.github.io/posts/220521-blahblah/</guid>
+        <guid>https://llama90.github.io/posts/220521-blahblah/</guid>
         <description>회사에 대한 충성과 충성에 대한 보상 보상이 먼저냐 충성이 먼저냐에 대한 이야기는 각설하고, 회사는 잡혀 있는 물고기에 큰 신경을 쓰지 않는다는 생각이다. 사업상 직원</description>
         
         <dc:creator>Hyunseok Seo</dc:creator>
@@ -106,11 +106,11 @@
       
       <item>
         <title>Blahblah</title>
-        <link>https://lami90.github.io/posts/220514-blahblah/</link>
+        <link>https://llama90.github.io/posts/220514-blahblah/</link>
         <pubDate>Sat, 14 May 2022 21:50:39 +0900</pubDate>
         <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         <atom:modified>Sat, 14 May 2022 21:50:39 +0900</atom:modified>
-        <guid>https://lami90.github.io/posts/220514-blahblah/</guid>
+        <guid>https://llama90.github.io/posts/220514-blahblah/</guid>
         <description>개발은 언제 끝날까? 라고 생각해보니 끝이 없겠다고 생각한다. 외부적 요인으로는 요구사항, 내부적 요인으로는 외부적 요인으로 인해 변경되는 코드와 부채. 오히려</description>
         
         <dc:creator>Hyunseok Seo</dc:creator>
@@ -148,11 +148,11 @@
       
       <item>
         <title>Blahblah</title>
-        <link>https://lami90.github.io/posts/220507-blahblah/</link>
+        <link>https://llama90.github.io/posts/220507-blahblah/</link>
         <pubDate>Sat, 07 May 2022 11:09:57 +0900</pubDate>
         <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         <atom:modified>Sat, 07 May 2022 11:09:57 +0900</atom:modified>
-        <guid>https://lami90.github.io/posts/220507-blahblah/</guid>
+        <guid>https://llama90.github.io/posts/220507-blahblah/</guid>
         <description>전임 프로그래머는 다 무능력하다 같은 언어와 프레임워크를 사용하면서도 누구는 간결하고 이해하기 쉬운 코드를 작성하고, 누구는 중복되는 로직과 기능별로 장황해지</description>
         
         <dc:creator>Hyunseok Seo</dc:creator>

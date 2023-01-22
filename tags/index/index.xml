@@ -6,26 +6,26 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>index on LAMA&#39;s Note</title>
-    <link>https://lami90.github.io/tags/index/</link>
-    <description>Recent content in index on LAMA&#39;s Note</description>
+    <title>index on LLAMA&#39;s Note</title>
+    <link>https://llama90.github.io/tags/index/</link>
+    <description>Recent content in index on LLAMA&#39;s Note</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hsseo0501@gmail.com (Hyunseok Seo)</managingEditor>
     <webMaster>hsseo0501@gmail.com (Hyunseok Seo)</webMaster>
     <copyright>©2023, All Rights Reserved</copyright>
     
-        <atom:link href="https://lami90.github.io/tags/index/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://llama90.github.io/tags/index/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Posts</title>
-        <link>https://lami90.github.io/posts/</link>
+        <link>https://llama90.github.io/posts/</link>
         <pubDate>Thu, 05 Jan 2023 19:45:05 +0900</pubDate>
         <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
-        <guid>https://lami90.github.io/posts/</guid>
+        <guid>https://llama90.github.io/posts/</guid>
         <description></description>
         
         <dc:creator>Hugo Authors</dc:creator>
