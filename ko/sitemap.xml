@@ -3,6 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://llama90.github.io/ko/categories/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,6 +17,8 @@
                 />
   </url><url>
     <loc>https://llama90.github.io/ko/series/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -27,6 +31,8 @@
                 />
   </url><url>
     <loc>https://llama90.github.io/ko/tags/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -39,6 +45,8 @@
                 />
   </url><url>
     <loc>https://llama90.github.io/ko/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
