@@ -8,7 +8,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://llama90.github.io/</loc>
-    <lastmod>2023-01-06T22:38:31+09:00</lastmod>
+    <lastmod>2023-01-05T19:45:05+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -21,31 +21,6 @@
                 hreflang="en"
                 href="https://llama90.github.io/"
                 />
-  </url><url>
-    <loc>https://llama90.github.io/flashcard/</loc>
-    <lastmod>2023-01-06T22:38:31+09:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://llama90.github.io/flashcard/typescript/230106-hello-world/</loc>
-    <lastmod>2023-01-06T22:38:31+09:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://llama90.github.io/flashcard/typescript/</loc>
-    <lastmod>2023-01-06T22:38:31+09:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://llama90.github.io/flashcard/java/230106-hello-world/</loc>
-    <lastmod>2023-01-06T22:36:56+09:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://llama90.github.io/flashcard/java/</loc>
-    <lastmod>2023-01-06T22:36:56+09:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
   </url><url>
     <loc>https://llama90.github.io/tags/2023/</loc>
     <lastmod>2023-01-05T19:45:05+09:00</lastmod>
