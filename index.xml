@@ -14,7 +14,7 @@
     <managingEditor>hsseo0501@gmail.com (Hyunseok Seo)</managingEditor>
     <webMaster>hsseo0501@gmail.com (Hyunseok Seo)</webMaster>
     <copyright>©2023, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 05 Jan 2023 19:45:05 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 26 Mar 2023 23:14:18 +0900</lastBuildDate>
     
         <atom:link href="https://llama90.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -40,6 +40,48 @@
         
       
 
+      
+      <item>
+        <title>모든 것은 스노우볼링 된다</title>
+        <link>https://llama90.github.io/posts/230326-blahblah/</link>
+        <pubDate>Sun, 26 Mar 2023 23:14:18 +0900</pubDate>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
+        <atom:modified>Sun, 26 Mar 2023 23:14:18 +0900</atom:modified>
+        <guid>https://llama90.github.io/posts/230326-blahblah/</guid>
+        <description>&amp;ldquo;스노우볼&amp;quot;이 다른 환경에서도 비슷한 의미로 쓰이는지는 모르겠지만, 나는 지금은 게임 자체를 하지는 않지만 롤이라는 게임에서 이 용어를</description>
+        
+        <dc:creator>Hyunseok Seo</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>2023</category>
+            
+          
+            
+              <category>Mar</category>
+            
+          
+            
+              <category>BlahBlah</category>
+            
+          
+        
+        
+          
+            
+              <category>개인</category>
+            
+          
+            
+              <category>BlahBlah</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>Mac 유틸리티</title>
