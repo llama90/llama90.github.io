@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://llama90.github.io/</loc>
-    <lastmod>2023-05-09T17:30:54+09:00</lastmod>
+    <lastmod>2023-07-12T18:33:15+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -18,22 +18,27 @@
                 />
   </url><url>
     <loc>https://llama90.github.io/tags/2023/</loc>
-    <lastmod>2023-05-09T17:30:54+09:00</lastmod>
+    <lastmod>2023-07-12T18:33:15+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://llama90.github.io/posts/230712-blahblah/</loc>
+    <lastmod>2023-07-12T18:33:15+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://llama90.github.io/tags/blahblah/</loc>
-    <lastmod>2023-05-09T17:30:54+09:00</lastmod>
+    <lastmod>2023-07-12T18:33:15+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://llama90.github.io/categories/blahblah/</loc>
-    <lastmod>2023-05-09T17:30:54+09:00</lastmod>
+    <lastmod>2023-07-12T18:33:15+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://llama90.github.io/categories/</loc>
-    <lastmod>2023-05-09T17:30:54+09:00</lastmod>
+    <lastmod>2023-07-12T18:33:15+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -47,18 +52,18 @@
                 href="https://llama90.github.io/categories/"
                 />
   </url><url>
-    <loc>https://llama90.github.io/tags/may/</loc>
-    <lastmod>2023-05-09T17:30:54+09:00</lastmod>
+    <loc>https://llama90.github.io/tags/jul/</loc>
+    <lastmod>2023-07-12T18:33:15+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://llama90.github.io/posts/</loc>
-    <lastmod>2023-05-09T17:30:54+09:00</lastmod>
+    <lastmod>2023-07-12T18:33:15+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://llama90.github.io/tags/</loc>
-    <lastmod>2023-05-09T17:30:54+09:00</lastmod>
+    <lastmod>2023-07-12T18:33:15+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -73,6 +78,11 @@
                 />
   </url><url>
     <loc>https://llama90.github.io/categories/%EA%B0%9C%EC%9D%B8/</loc>
+    <lastmod>2023-07-12T18:33:15+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://llama90.github.io/tags/may/</loc>
     <lastmod>2023-05-09T17:30:54+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -273,11 +283,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://llama90.github.io/posts/20220730-blahblah/</loc>
-    <lastmod>2022-07-30T11:20:32+09:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://llama90.github.io/tags/jul/</loc>
     <lastmod>2022-07-30T11:20:32+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
