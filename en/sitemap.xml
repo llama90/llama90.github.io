@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://llama90.github.io/</loc>
-    <lastmod>2023-07-12T18:33:15+09:00</lastmod>
+    <lastmod>2023-07-14T21:27:25+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -18,7 +18,72 @@
                 />
   </url><url>
     <loc>https://llama90.github.io/tags/2023/</loc>
-    <lastmod>2023-07-12T18:33:15+09:00</lastmod>
+    <lastmod>2023-07-14T21:27:25+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://llama90.github.io/categories/</loc>
+    <lastmod>2023-07-14T21:27:25+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://llama90.github.io/ko/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://llama90.github.io/categories/"
+                />
+  </url><url>
+    <loc>https://llama90.github.io/categories/data/</loc>
+    <lastmod>2023-07-14T21:27:25+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://llama90.github.io/tags/jul/</loc>
+    <lastmod>2023-07-14T21:27:25+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://llama90.github.io/posts/</loc>
+    <lastmod>2023-07-14T21:27:25+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://llama90.github.io/categories/snowflake/</loc>
+    <lastmod>2023-07-14T21:27:25+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://llama90.github.io/posts/230714-snowflake/</loc>
+    <lastmod>2023-07-14T21:27:25+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://llama90.github.io/tags/</loc>
+    <lastmod>2023-07-14T21:27:25+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://llama90.github.io/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://llama90.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://llama90.github.io/tags/tech/</loc>
+    <lastmod>2023-07-14T21:27:25+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://llama90.github.io/categories/tech/</loc>
+    <lastmod>2023-07-14T21:27:25+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -36,46 +101,6 @@
     <lastmod>2023-07-12T18:33:15+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>https://llama90.github.io/categories/</loc>
-    <lastmod>2023-07-12T18:33:15+09:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://llama90.github.io/ko/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://llama90.github.io/categories/"
-                />
-  </url><url>
-    <loc>https://llama90.github.io/tags/jul/</loc>
-    <lastmod>2023-07-12T18:33:15+09:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://llama90.github.io/posts/</loc>
-    <lastmod>2023-07-12T18:33:15+09:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://llama90.github.io/tags/</loc>
-    <lastmod>2023-07-12T18:33:15+09:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://llama90.github.io/ko/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://llama90.github.io/tags/"
-                />
   </url><url>
     <loc>https://llama90.github.io/categories/%EA%B0%9C%EC%9D%B8/</loc>
     <lastmod>2023-07-12T18:33:15+09:00</lastmod>

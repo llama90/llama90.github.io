@@ -14,11 +14,65 @@
     <managingEditor>hsseo0501@gmail.com (Hyunseok Seo)</managingEditor>
     <webMaster>hsseo0501@gmail.com (Hyunseok Seo)</webMaster>
     <copyright>©2023, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 12 Jul 2023 18:33:15 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jul 2023 21:27:25 +0900</lastBuildDate>
     
         <atom:link href="https://llama90.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>Data</title>
+        <link>https://llama90.github.io/categories/data/</link>
+        <pubDate>Fri, 14 Jul 2023 21:27:25 +0900</pubDate>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
+        
+        <guid>https://llama90.github.io/categories/data/</guid>
+        <description></description>
+        
+        <dc:creator>Hyunseok Seo</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Snowflake</title>
+        <link>https://llama90.github.io/categories/snowflake/</link>
+        <pubDate>Fri, 14 Jul 2023 21:27:25 +0900</pubDate>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
+        
+        <guid>https://llama90.github.io/categories/snowflake/</guid>
+        <description></description>
+        
+        <dc:creator>Hyunseok Seo</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Tech</title>
+        <link>https://llama90.github.io/categories/tech/</link>
+        <pubDate>Fri, 14 Jul 2023 21:27:25 +0900</pubDate>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
+        
+        <guid>https://llama90.github.io/categories/tech/</guid>
+        <description></description>
+        
+        <dc:creator>Hyunseok Seo</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>BlahBlah</title>

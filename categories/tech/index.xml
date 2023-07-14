@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Tech on LLAMA&#39;s Note</title>
+    <link>https://llama90.github.io/categories/tech/</link>
+    <description>Recent content in Tech on LLAMA&#39;s Note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hsseo0501@gmail.com (Hyunseok Seo)</managingEditor>
+    <webMaster>hsseo0501@gmail.com (Hyunseok Seo)</webMaster>
+    <copyright>©2023, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 14 Jul 2023 21:27:25 +0900</lastBuildDate>
+    
+        <atom:link href="https://llama90.github.io/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Snowflake</title>
+        <link>https://llama90.github.io/posts/230714-snowflake/</link>
+        <pubDate>Fri, 14 Jul 2023 21:27:25 +0900</pubDate>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
+        <atom:modified>Fri, 14 Jul 2023 21:27:25 +0900</atom:modified>
+        <guid>https://llama90.github.io/posts/230714-snowflake/</guid>
+        <description>기본적으로 클라우드 환경에서 구축한 클라우드 데이터 플랫폼(클라우드 데이터 웨어하우스) 클라우드 환경을 기반으로 하여 리소스(컴퓨팅, 네트워크, 스토리지</description>
+        
+        <dc:creator>Hyunseok Seo</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>2023</category>
+            
+          
+            
+              <category>Jul</category>
+            
+          
+            
+              <category>Tech</category>
+            
+          
+        
+        
+          
+            
+              <category>Tech</category>
+            
+          
+            
+              <category>Data</category>
+            
+          
+            
+              <category>Snowflake</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
