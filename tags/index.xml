@@ -13,20 +13,38 @@
     <language>en</language>
     <managingEditor>hsseo0501@gmail.com (Hyunseok Seo)</managingEditor>
     <webMaster>hsseo0501@gmail.com (Hyunseok Seo)</webMaster>
-    <copyright>©2023, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 29 Nov 2023 00:23:57 +0900</lastBuildDate>
+    <copyright>©2024, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 02 Aug 2024 18:03:43 +0900</lastBuildDate>
     
         <atom:link href="https://llama90.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
-        <title>2023</title>
-        <link>https://llama90.github.io/tags/2023/</link>
-        <pubDate>Wed, 29 Nov 2023 00:23:57 +0900</pubDate>
+        <title>2024</title>
+        <link>https://llama90.github.io/tags/2024/</link>
+        <pubDate>Fri, 02 Aug 2024 18:03:43 +0900</pubDate>
         <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
-        <guid>https://llama90.github.io/tags/2023/</guid>
+        <guid>https://llama90.github.io/tags/2024/</guid>
+        <description></description>
+        
+        <dc:creator>Hyunseok Seo</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Aug</title>
+        <link>https://llama90.github.io/tags/aug/</link>
+        <pubDate>Fri, 02 Aug 2024 18:03:43 +0900</pubDate>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
+        
+        <guid>https://llama90.github.io/tags/aug/</guid>
         <description></description>
         
         <dc:creator>Hyunseok Seo</dc:creator>
@@ -41,10 +59,28 @@
       <item>
         <title>BlahBlah</title>
         <link>https://llama90.github.io/tags/blahblah/</link>
-        <pubDate>Wed, 29 Nov 2023 00:23:57 +0900</pubDate>
+        <pubDate>Fri, 02 Aug 2024 18:03:43 +0900</pubDate>
         <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
         <guid>https://llama90.github.io/tags/blahblah/</guid>
+        <description></description>
+        
+        <dc:creator>Hyunseok Seo</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>2023</title>
+        <link>https://llama90.github.io/tags/2023/</link>
+        <pubDate>Wed, 29 Nov 2023 00:23:57 +0900</pubDate>
+        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
+        
+        <guid>https://llama90.github.io/tags/2023/</guid>
         <description></description>
         
         <dc:creator>Hyunseok Seo</dc:creator>
@@ -441,24 +477,6 @@
         <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
         
         <guid>https://llama90.github.io/tags/sep/</guid>
-        <description></description>
-        
-        <dc:creator>Hyunseok Seo</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Aug</title>
-        <link>https://llama90.github.io/tags/aug/</link>
-        <pubDate>Sat, 27 Aug 2022 22:04:15 +0900</pubDate>
-        <author>hsseo0501@gmail.com (Hyunseok Seo)</author>
-        
-        <guid>https://llama90.github.io/tags/aug/</guid>
         <description></description>
         
         <dc:creator>Hyunseok Seo</dc:creator>
