@@ -135,18 +135,18 @@
                 href="https://llama90.github.io/ko/search/"
                 />
   </url><url>
-    <loc>https://llama90.github.io/ko/archieves/</loc>
+    <loc>https://llama90.github.io/ko/archives/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://llama90.github.io/archieves/"
+                href="https://llama90.github.io/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://llama90.github.io/ko/archieves/"
+                href="https://llama90.github.io/ko/archives/"
                 />
   </url>
 </urlset>
