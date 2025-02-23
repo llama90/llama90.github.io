@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Test on LLAMA&#39;s Note</title>
+    <link>https://llama90.github.io/tags/test/</link>
+    <description>Recent content in Test on LLAMA&#39;s Note</description>
+    <generator>Hugo -- 0.144.2</generator>
+    <language>en</language>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://llama90.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Post</title>
+      <link>https://llama90.github.io/posts/test-post/</link>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://llama90.github.io/posts/test-post/</guid>
+      <description>This is a simple test post for search and tag filtering.</description>
+    </item>
+  </channel>
+</rss>

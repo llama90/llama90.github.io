@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hugo on 라마의 노트</title>
+    <link>https://llama90.github.io/ko/tags/hugo/</link>
+    <description>Recent content in Hugo on 라마의 노트</description>
+    <generator>Hugo -- 0.144.2</generator>
+    <language>ko</language>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 22 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://llama90.github.io/ko/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>테스트 포스트</title>
+      <link>https://llama90.github.io/ko/posts/test-post/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://llama90.github.io/ko/posts/test-post/</guid>
+      <description>태그 및 검색 기능을 테스트하기 위한 간단한 포스트입니다.</description>
+    </item>
+  </channel>
+</rss>
